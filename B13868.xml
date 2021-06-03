@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Meditations and vowes, diuine and morall: a third century. By Ioseph Hall.</title>
+            <title>Meditations and vowes divine and morall. Century 3</title>
+            <author>Hall, Joseph, 1574-1656.</author>
+         </titleStmt>
+         <extent>Approx. 104KB of XML-encoded text transcribed from 102 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13868</idno><idno type="EEBO-CITATION">99839409_3826</idno>
+  <idno type="VID">3826</idno>
+  <idno type="EEBO-PROQUEST">2264175851</idno>
+  <idno type="STC">STC 12680.5</idno>
+  <idno type="STC">ESTC S103661</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839409e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1142:8 or 1853:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Meditations and vowes, diuine and morall: a third century. By Ioseph Hall.</title>
+                  <title>Meditations and vowes divine and morall. Century 3</title>
+                  <author>Hall, Joseph, 1574-1656.</author>
+               </titleStmt>
+               <extent>[8], 195, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Humfrey Lownes, for Iohn Porter,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition B1r line 3 begins "we"; C3r line 1 ends "lightly".</note>
+                  <note>Identified as part of STC 12680 at reel 1142:8.</note>
+                  <note>Signatures: A-H12 I6.</note>
+                  <note>Appears at reel 1142 and at reel 1853 (same copy filmed twice).</note>
+                  <note>Reproductions of the original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life --  Early works to 1900.</term>
+               <term type="topical_term">Meditations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3826:1"/>
+            <pb facs="tcp:3826:1"/>
+            <p>MEDITATIONS and VOWES,</p>
+            <p>
+               <hi>Diuine and Morall:</hi>
+            </p>
+            <p>A third Century.</p>
+            <p>By IOSEPH HALL.</p>
+            <p>AT LONDON Imprinted by <hi>Humfrey Lownes,</hi> for <hi>Iohn Porter.</hi>
+            </p>
+            <p>1606.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:3826:2"/>
+            <pb facs="tcp:3826:2"/>
+            <head>TO THE RIGHT worshipful Sir EDMVND BACON, <hi>Knight, increase</hi> of honor, strength of body, perfection of vertue.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR, There is no wise man would giue his thoughts for all the world: Which as they are the most plea<g ref="char:EOLhyphen"/>sing, and noble businesse of man, being the naturall and immediate issue of that reason, whereby he is seuered from brute crea<g ref="char:EOLhyphen"/>tures: So they are in their
+<pb facs="tcp:3826:3"/>vse most beneficiall to our selues, and others. For, by the meanes hereof, we en<g ref="char:EOLhyphen"/>ioy both God and our selues; and hereby wee make others partners of those rich excellencies, which God hath hid in the mind. And though it be most easie and safe, for a man, with the Psalmist, to commune with his owne heart in silence; yet is it more behoouefull to the common good, for which (both as men and Christi<g ref="char:EOLhyphen"/>ans) we are ordained, that those thoughts, which our experience hath found comfortable and fruitfull
+<pb facs="tcp:3826:3"/>to our selues, should (with neglect of all censures) be communicated to others. The concealement wherof (me thinkes) can proceed from no other ground, but either timerousnesse, or enuy. Which consideration hath induced me to clothe these naked thoughts in plaine and simple words, and to aduenture them into the light, after their fellowes: Consecrating them the rather to your name for that (besides all other respects of duetie) they are part of those Me<g ref="char:EOLhyphen"/>ditatiōs, which in my late peregrination with you,
+<pb facs="tcp:3826:4"/>tooke me vp vnder the so<g ref="char:EOLhyphen"/>litary hilles of <hi>Ardenna;</hi> wāting as thē the opportu<g ref="char:EOLhyphen"/>nity of other imployment. I offer them to you, not for that your selfe is not sto<g ref="char:EOLhyphen"/>red with choice of better; but as poore men vse to bring presents to the rich: If they may carrie accep<g ref="char:EOLhyphen"/>tatiō from you, and bring profit vnto any soule, it shall abundantly satisfie me; who should thinke it honour enough, if I might bee vouchsafed to bring but one pin towardes the decking of the spouse of Christ; whiles others, out of their abūdance, adorne
+<pb facs="tcp:3826:4"/>her with costly robes, and rich medals. I commend their successe to God, their patronage to you, their vse to the world. That God multiplie his rare fauours vpon you, and your worthy La<g ref="char:EOLhyphen"/>die; and go you on to fauour</p>
+            <closer>
+               <signed>Your Worships humbly deuoted, IOS. HALL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:3826:5"/>
+            <pb n="1" facs="tcp:3826:5"/>
+            <head>MEDITATIONS <hi>and Vowes.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>1</head>
+               <p>
+                  <seg rend="decorInit">G</seg>Ood men are placed by God, as so many stars in this lower firmament of the world. As they must imitate those hea<g ref="char:EOLhyphen"/>uenly bodies, in their light and influence; so al<g ref="char:EOLhyphen"/>so in their motion: and therefore, as the Planets haue a course proper to themselues, against the
+<pb n="2" facs="tcp:3826:6"/>sway of the heauen that carries them about; so must each good man haue a motion out of his own iudgement, con<g ref="char:EOLhyphen"/>trary to the customs and opinions of the vulgar; finishing his own course with the least shewe of resistance. I will neuer affect singularitie, ex<g ref="char:EOLhyphen"/>cept it bee among those that are vicious. It is better to doe, or thinke well alone, then to fol<g ref="char:EOLhyphen"/>lowe a multitude in e<g ref="char:EOLhyphen"/>uill.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2</head>
+               <p>What strange variety of actions doth the eye
+<pb n="3" facs="tcp:3826:6"/>of GOD see at once round about the com<g ref="char:EOLhyphen"/>passe of the earth, and within it. Some building houses; some deluing for mettals; some marching in troups, or encamping one against another; some bargaining in the market; some trauelling on their way; some pray<g ref="char:EOLhyphen"/>ing in their closets; o<g ref="char:EOLhyphen"/>thers quaffing at the Ta<g ref="char:EOLhyphen"/>uerne; some rowing in the Galleys, others dal<g ref="char:EOLhyphen"/>lying in their chābers; &amp; in short, as many differēt actions as persons: yet all haue one cōmon intenti<g ref="char:EOLhyphen"/>on of good to thēselues,
+<pb n="4" facs="tcp:3826:7"/>true in some, but in the most, imaginary. The glorified Spirits haue but one vniforme work, wherein they all ioyne; the praise of their Crea<g ref="char:EOLhyphen"/>tor. This is one diffe<g ref="char:EOLhyphen"/>rence betwixt the Saints aboue, and below; They aboue are free both frō businesses and distracti<g ref="char:EOLhyphen"/>on: these below, are free (though not absolutely) from distraction, not at all from businesse. <hi>Paul</hi> could thinke of his cloke that he left at <hi>Troas;</hi> and of the shaping of his skinnes for his tents: yet, through these he look't
+<pb n="5" facs="tcp:3826:7"/>still at heauen. This world is made for busi<g ref="char:EOLhyphen"/>nesse: my actions must vary according to occa<g ref="char:EOLhyphen"/>sions: my end shall bee but one, and the same now on earth, that it must bee one day in hea<g ref="char:EOLhyphen"/>uen.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3</head>
+               <p>To see how the Mar<g ref="char:EOLhyphen"/>tyrs of God died, and the life of their persecuters, would make a man out of loue with life, and out of al feare of death. They were flesh and blood, as well as wee; life was as sweete to them, as to vs; their bodies were as sen<g ref="char:EOLhyphen"/>sible
+<pb n="6" facs="tcp:3826:8"/>of paine as ours; we goe to the same heauen with them. How comes it then, that they were so couragious in abiding such torments in their death, as the very menti<g ref="char:EOLhyphen"/>on strikes horror into a<g ref="char:EOLhyphen"/>ny reader; and we are so cowardly in encountring a faire and natural death? If this valour had beene of themselues, I would neuer haue looked after them in hope of imitati<g ref="char:EOLhyphen"/>on. Now, I know it was he for whom they suffe<g ref="char:EOLhyphen"/>red, &amp; that suffred in thē, which sustained them: They were of thēselues
+<pb n="7" facs="tcp:3826:8"/>as weak as I; and God can be as strong im me, as he was in thē. O Lord thou art not more vnable to giue me this grace; but I am more vnworthy to receiue it: and yet thou regardest not worthines, but mercie. Giue mee their stength, and what end thou wilt.</p>
+            </div>
+            <div n="4" type="part">
+               <head>4</head>
+               <p>Our first age is all in hope: Whē we are in the womb, who knows whe<g ref="char:EOLhyphen"/>ther we shall haue our right shape &amp; proporti<g ref="char:EOLhyphen"/>on of body, being nei<g ref="char:EOLhyphen"/>ther mōstrous nor defor<g ref="char:EOLhyphen"/>med? Whē we are born,
+<pb n="8" facs="tcp:3826:9"/>who knowes whether with the due features of a man, we shall haue the faculties of reason and vnderstanding? when yet our progresse in yeeres discouereth wit or folly; who knowes, whether with the power of rea<g ref="char:EOLhyphen"/>son wee shall haue the grace of faith to be chri<g ref="char:EOLhyphen"/>stians? and when wee begin to professe well, whether it be a tempora<g ref="char:EOLhyphen"/>ry, and seeming, or a true &amp; sauing faith? Our middle age is halfe in hope for the future, and halfe in proofe for that is past: Our olde age is
+<pb n="9" facs="tcp:3826:9"/>out of hope, and altoge<g ref="char:EOLhyphen"/>ther in proofe. In our last times therefore wee knowe, both what wee haue been, and what to expect. It is good for youth to looke forward, and still to propound the best things vnto it selfe; for an old man to looke backward, and to repent him of that wherein hee hath fayled, and to recol<g ref="char:EOLhyphen"/>lect himselfe for the pre<g ref="char:EOLhyphen"/>sent: But in my middle age, I will looke both backward and forward; comparing my hopes with my proofe; redee<g ref="char:EOLhyphen"/>ming the time ere it bee
+<pb n="10" facs="tcp:3826:10"/>all spent, that my recoue<g ref="char:EOLhyphen"/>ry may preuent my re<g ref="char:EOLhyphen"/>pentance. It is both a fol<g ref="char:EOLhyphen"/>ly &amp; misery to say, This I might haue done.</p>
+            </div>
+            <div n="5" type="part">
+               <head>5</head>
+               <p>It is the wonderfull mercie of God, both to forgiue vs our debts to him in our sinnes, and to make himselfe a debter to vs in his promises: So that now both wayes the soule may be sure; since hee neither calleth for those debts which hee hath once forgiuen; nor withdraweth those fa<g ref="char:EOLhyphen"/>uours, and that heauen which he hath promised:
+<pb n="11" facs="tcp:3826:10"/>But as hee is a mercifull creditor to forgiue, so is hee a true debter to pay whatsoeuer he hath vn<g ref="char:EOLhyphen"/>dertaken: whence it is come to passe, that the penitent sinner owes no<g ref="char:EOLhyphen"/>thing to God but loue and obedience; and God owes still much and all to him: for hee owes as much as hee hath promised; and what hee owes by vertue of his blessed promise, we may challenge. O infi<g ref="char:EOLhyphen"/>nite mercie! Hee that lent vs all that wee haue, and in whose debt-bookes we run hourely
+<pb n="12" facs="tcp:3826:11"/>forward till the summe be endlesse; yet owes vs more, and bids vs looke for paiment. I cannot deserue the least fauour he can giue; yet I will as confidently challēge the greatest, as if I deserued it: Promise indebteth no lesse then loane or de<g ref="char:EOLhyphen"/>sert.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6</head>
+               <p>It is no small com<g ref="char:EOLhyphen"/>mendation to manage a little well: He is a good Waggoner, that can turn in a narrow roome. To liue well in abun<g ref="char:EOLhyphen"/>dance, is the praise of the estate, not of the person.
+<pb n="13" facs="tcp:3826:11"/>I wil studie more how to giue a good account of my little, then how to make it more.</p>
+            </div>
+            <div n="7" type="part">
+               <head>7</head>
+               <p>Many Christians doe greatly wrong them<g ref="char:EOLhyphen"/>selues with a dull and heauy kind of sullēnesse; who, not suffering them<g ref="char:EOLhyphen"/>selues to delight in any worldly thing, are there<g ref="char:EOLhyphen"/>upon oft times so hart<g ref="char:EOLhyphen"/>lesse, that they delight in nothing: These men, like to carelesse guests, when they are inuited to an ex<g ref="char:EOLhyphen"/>cellent banquet, lose their dainties, for want of a stomacke; and lose
+<pb n="14" facs="tcp:3826:12"/>their stomacke for want of exercise A good con<g ref="char:EOLhyphen"/>science keepes alwayes good cheere, he cannot chuse but fare well that hath it, vnlesse hee lose his appetite with neg<g ref="char:EOLhyphen"/>lect and slouthfulnesse. It is a shame for vs Christians not to finde as much ioy in God, as worldlings doe in their forced merriments; and lewde wretches in the practise of their sinnes.</p>
+            </div>
+            <div n="8" type="part">
+               <head>8</head>
+               <p>A wise Christian hath no enemies. Many hate and wrong him: but hee loues all men, &amp; all plea<g ref="char:EOLhyphen"/>sure
+<pb n="15" facs="tcp:3826:12"/>him. Those that pro<g ref="char:EOLhyphen"/>fesse loue to him, plea<g ref="char:EOLhyphen"/>sure him with the com<g ref="char:EOLhyphen"/>fort of their society, and the mutuall reflection of friendship; those that professe hatred, make him more warie of his wayes; shew him faults in himselfe, which his friends would either not haue espied, or not cen<g ref="char:EOLhyphen"/>sured; send him the more willingly to seeke fauour aboue: And as the worst doe bestead him, thogh against their willes; so he againe doth voluntary good to them. To doe euill for euill,
+<pb n="16" facs="tcp:3826:13"/>as <hi>Ioab</hi> to <hi>Abner,</hi> is a sinfull weakenesse: To doe good for good, as <hi>Ahasuerus</hi> to <hi>Mordecai,</hi> is but natural iustice: To doe euill for good, as <hi>Iu<g ref="char:EOLhyphen"/>das</hi> to Christ, is vnthank<g ref="char:EOLhyphen"/>fulnesse and villany: On<g ref="char:EOLhyphen"/>ly to doe good for euill, agrees with Christian profession. And what greater worke of friend<g ref="char:EOLhyphen"/>ship then to doe good? If men will not bee my friends in loue, I wil per<g ref="char:EOLhyphen"/>force make them my friendes in a good vse of their hatred. I will bee their friend, that are mine, and would not be.</p>
+            </div>
+            <div n="9" type="part">
+               <pb n="17" facs="tcp:3826:13"/>
+               <head>9</head>
+               <p>All temporall things are troublesome: For if we haue good things, it is a trouble to forgoe them; and when we see they must be parted frō, either we wish they had not been so good, or that wee neuer had enioyed thē. Yea, it is more trou<g ref="char:EOLhyphen"/>ble to lose them, than it was before ioy to pos<g ref="char:EOLhyphen"/>sesse them. If contrarily, wee haue euill things, their very presence is troublesome; and still we wish that they were good, or that we were disburdened of them: So
+<pb n="18" facs="tcp:3826:14"/>good things are trouble<g ref="char:EOLhyphen"/>some in euent, euill things in their vse. They in the future, these in present: they, because they shall come to an end, these because they doe continue. Tell mee, thy wife, or thy childe lyes dying, and nowe makes vp a louing and dutifull life, with a kinde and heauenly parture; whether hadst thou ra<g ref="char:EOLhyphen"/>ther, for thy owne part, she had been so good, or worse? would it haue cost thee so many heartie sighes and teares, if shee had beene peruerse and
+<pb n="19" facs="tcp:3826:14"/>disobedient? Yet, if in her life time I put thee to this choyce, thou thin<g ref="char:EOLhyphen"/>kest it no choyce at all, in such inequalitie. It is more torment (sayest thou) to liue one vn<g ref="char:EOLhyphen"/>quiet moneth, then it is pleasure to liue an age in loue. Or if thy life be yet dearer: Thou hast liued to graye hayres, not hastened with cares, but bredde with late succession of yeeres. Thy table was euer co<g ref="char:EOLhyphen"/>uered with varietie of dishes: Thy backe soft<g ref="char:EOLhyphen"/>ly and richly clad. Thou neuer gauest denyall
+<pb n="20" facs="tcp:3826:15"/>to either skinne or sto<g ref="char:EOLhyphen"/>macke; Thou euer fa<g ref="char:EOLhyphen"/>uouredst thy selfe, and health, thee. Now death is at thy threshold, and vnpartially knocks at thy doore, doest thou not wish thou hadst liued with crusts, and beene clothed with ragges? Wouldest thou not haue giuen a better welcome to death, if he had found thee, lying vpon a pallet of straw, and supping of water gruell; after many painfull nights, and ma<g ref="char:EOLhyphen"/>ny sides changed in vain? Yet this beggerly estate thou detestest in health,
+<pb n="21" facs="tcp:3826:15"/>and pitiest in others as truely miserable: The summe is; A begger wi<g ref="char:EOLhyphen"/>sheth he might be a Mo<g ref="char:EOLhyphen"/>narch while he liues; and y<seg rend="sup">e</seg> great Potētate wisheth he had liued a begger, when hee comes to die; &amp;, if beggery be to haue nothing, he shall be so in death, though he wished it not. Nothing, there<g ref="char:EOLhyphen"/>fore, but eternitie can make a man truely hap<g ref="char:EOLhyphen"/>py; as nothing can make perfect misery but eter<g ref="char:EOLhyphen"/>nitie: for as temporall good things afflict vs in their ending, so tempo<g ref="char:EOLhyphen"/>rall sorrowes afford vs
+<pb n="22" facs="tcp:3826:16"/>ioy in the hope of their ende: What folly is this in vs to seeke for our trouble, to neglect our happinesse? I can be but well; and this that I was well, shall one day bee grieuous: Nothing shall please me, but that once I shall bee happie fore<g ref="char:EOLhyphen"/>uer.</p>
+            </div>
+            <div n="10" type="part">
+               <head>10</head>
+               <p>The eldest of our fore<g ref="char:EOLhyphen"/>fathers liued not so much as a day to God; to whome a thousand yeeres is as no more; we liue but as an houre to the day of our forefa<g ref="char:EOLhyphen"/>thers; for if nine hun<g ref="char:EOLhyphen"/>dreth
+<pb n="23" facs="tcp:3826:16"/>and sixty were but their day, our fourescore is but as the twelfth part of it: and yet of this our houre we liue scarce a minute to God: For, take away all that time that is consumed in slee<g ref="char:EOLhyphen"/>ping, dressing, feeding, talking, sporting; of that little time there can remaine not much more than nothing: yet the most seeke pas-times to hasten it: Those which seeke to mend the pase of Time, spurre a run<g ref="char:EOLhyphen"/>ning horse. I had more neede to redeeme it with double care and
+<pb n="24" facs="tcp:3826:17"/>labor, then to seeke how to sell it for nothing.</p>
+            </div>
+            <div n="11" type="part">
+               <head>11</head>
+               <p>Each day is a new life, and an abbridgement of the whole. I will so liue as if I accounted euery day my first, and my last: as if I began to liue but then, and should liue no more afterwards.</p>
+            </div>
+            <div n="12" type="part">
+               <head>12</head>
+               <p>It was not in vaine, that the ancient foun<g ref="char:EOLhyphen"/>ders of languages vsed the same word in many tongues, to signifie both Honor and charge; mea<g ref="char:EOLhyphen"/>ning therein to teach vs the inseparable connexi<g ref="char:EOLhyphen"/>on
+<pb n="25" facs="tcp:3826:17"/>of these two. For there scarce euer was a<g ref="char:EOLhyphen"/>ny charge without some opinion of honour: nei<g ref="char:EOLhyphen"/>ther euer was there ho<g ref="char:EOLhyphen"/>nour without a charge; which two, as they are not without reason ioy<g ref="char:EOLhyphen"/>ned together in name by humane institution, so they are most wisely coupled together by God in the disposition of these worldly estates: Charge without honor, to make it amēds, would be too toylesome, and must needes discourage and ouerlay a man. Ho<g ref="char:EOLhyphen"/>nour without charge
+<pb n="26" facs="tcp:3826:18"/>would bee too pleasant, and therfore both would bee too much sought af<g ref="char:EOLhyphen"/>ter, and must needes ca<g ref="char:EOLhyphen"/>rie away the mind in the enioying it. Now ma<g ref="char:EOLhyphen"/>ny dare not bee ambiti<g ref="char:EOLhyphen"/>ous, because of the bur<g ref="char:EOLhyphen"/>den; chusing rather to liue obscurely &amp; secure<g ref="char:EOLhyphen"/>ly: And yet on the other side those that are vnder it, are refreshed in the charge with the sweete<g ref="char:EOLhyphen"/>nesse of honour: seeing they cannot bee separa<g ref="char:EOLhyphen"/>ted; it is not the worst estate to want both: They whome thou en<g ref="char:EOLhyphen"/>uyest for honour, per<g ref="char:EOLhyphen"/>haps
+<pb n="27" facs="tcp:3826:18"/>enuy thee more for thy quietnesse.</p>
+            </div>
+            <div n="13" type="part">
+               <head>13</head>
+               <p>Hee that taketh his owne cares vpon him<g ref="char:EOLhyphen"/>selfe, loades himselfe in vaine with an vneasie burden. The feare of what may come, expe<g ref="char:EOLhyphen"/>ctation of what will come, desire of what will not come, and inabili<g ref="char:EOLhyphen"/>ty of redressing all these, must needes breede him continuall torment. I will cast my cares vp<g ref="char:EOLhyphen"/>on GOD, hee hath bidden mee; they can<g ref="char:EOLhyphen"/>not hurt him; he can re<g ref="char:EOLhyphen"/>dresse them.</p>
+            </div>
+            <div n="14" type="part">
+               <pb n="28" facs="tcp:3826:19"/>
+               <head>14</head>
+               <p>Our infancie is full of folly; youth, of disorder and toyle; age, of infir<g ref="char:EOLhyphen"/>mity: Each time hath his burden, and that which may iustly worke our wearinesse: yet in<g ref="char:EOLhyphen"/>fancie longeth after youth; and youth, af<g ref="char:EOLhyphen"/>ter more age; and hee that is very old, as he is a child for simplicitie, so he would be for yeeres. I account olde age the best of three; partly, for that it hath passed tho<g ref="char:EOLhyphen"/>row the folly and disor<g ref="char:EOLhyphen"/>der of the other; partly, for that the inconueni<g ref="char:EOLhyphen"/>ences
+<pb n="29" facs="tcp:3826:19"/>of this are but bo<g ref="char:EOLhyphen"/>dily, with a bettered e<g ref="char:EOLhyphen"/>state of the minde; and partly, for that it is nee<g ref="char:EOLhyphen"/>rest to dissolution. There is nothing more misera<g ref="char:EOLhyphen"/>ble then an old man that would bee yong againe. It was an answere wor<g ref="char:EOLhyphen"/>thy the commendations, of <hi>Petrarch,</hi> and that which argued a minde truely philosophicall of him, who when his friend bemoned his age appearing in his white temples, telling him he was sorry to see him looke so olde, reply<g ref="char:EOLhyphen"/>ed: Nay, be sory rather
+<pb n="30" facs="tcp:3826:20"/>that euer I was yong to be a foole.</p>
+            </div>
+            <div n="15" type="part">
+               <head>15</head>
+               <p>There is not the least action or euent (what<g ref="char:EOLhyphen"/>euer the vaine Epicures haue imagined) which is not ouer-ruled, and dis<g ref="char:EOLhyphen"/>posed by a prouidence, which is so far from de<g ref="char:EOLhyphen"/>tracting ought from the maiestie of God, for that the things are small, as that ther can be no grea<g ref="char:EOLhyphen"/>ter honor to him then to extend his prouidence &amp; decree to them because they are infinite: Neither doth this hold in natural things onely, which are
+<pb n="31" facs="tcp:3826:20"/>chained one to another by a regular order of suc<g ref="char:EOLhyphen"/>cession; but euen in those things which fall out by casualty &amp; imprudence: whence that worthy fa<g ref="char:EOLhyphen"/>ther, when as his speach digressed beside his intē<g ref="char:EOLhyphen"/>tiō to a confutatiō of the errors of the Manichees, could presētly gesse, that in that vnpurposed turn<g ref="char:EOLhyphen"/>ing of it, God intēded the conuersion of some vn<g ref="char:EOLhyphen"/>known auditor; as the e<g ref="char:EOLhyphen"/>uēt proued his cōiecture true ere many daies; whē ought fals out cōtrary to that I purposed, it shall content me, that GOD
+<pb n="32" facs="tcp:3826:21"/>purposed it as it is fallen out: So the thing hath attained his owne ende, whiles it missed mine. I know what I would, but GOD knoweth what I should will. It is enough that his will is done, though mine be crossed.</p>
+            </div>
+            <div n="16" type="part">
+               <head>16</head>
+               <p>It is the most thanke<g ref="char:EOLhyphen"/>lesse office in the world, to be a mans Pandar vn<g ref="char:EOLhyphen"/>to sin. In other wrongs, one man is a wolf to an<g ref="char:EOLhyphen"/>other; but in this, a diuel. And, though at the first this damnable seruice cary away reward, yet in conclusion, it is requited
+<pb n="33" facs="tcp:3826:21"/>with hatred and curses. For, as the sicke man extreamly distasted with a loathsome potion, ha<g ref="char:EOLhyphen"/>teth the very cruze wher<g ref="char:EOLhyphen"/>in it was brought him; so doeth the conscience once soundly detesting sinne, loathe the meanes that induced him to cō<g ref="char:EOLhyphen"/>mit it. Contrarily, who withstands a man in his prosecution of a sinne, while he doteth vpon it, beares away frownes, and hart-burnings for a time: but when the of<g ref="char:EOLhyphen"/>fending partie comes to himselfe, and right rea<g ref="char:EOLhyphen"/>son, hee recompenseth
+<pb n="34" facs="tcp:3826:22"/>his former dislike with so much more loue, and so many more thankes. The franticke man re<g ref="char:EOLhyphen"/>turned to his wits, thinks him his best friend, that bound him, &amp; beate him most. I will doe my best to crosse any man in his sinnes: If I haue not thankes of him; yet of my conscience I shall.</p>
+            </div>
+            <div n="17" type="part">
+               <head>17</head>
+               <p>God must be magnifi<g ref="char:EOLhyphen"/>ed in his very iudge<g ref="char:EOLhyphen"/>ments: Hee lookes for praise, not onely for hea<g ref="char:EOLhyphen"/>uen, but for hell also: His iustice is himselfe, as well as his mercie. As
+<pb n="35" facs="tcp:3826:22"/>heauen then is for the praise of his mercie; so hell for the glory of his iustice. We must there<g ref="char:EOLhyphen"/>fore bee so affected to iudgements as the au<g ref="char:EOLhyphen"/>thor of them is, who de<g ref="char:EOLhyphen"/>lighteth not in blood as it makes his creature mi<g ref="char:EOLhyphen"/>serable, but as it makes his iustice glorious. Eue<g ref="char:EOLhyphen"/>ry true Christian then must learne to sing that compound dittie of the Psalmist: <hi>Of mercie and iudgment.</hi> It shal not on<g ref="char:EOLhyphen"/>ly ioy mee to see God gratious and bountifull in his mercies, &amp; deliue<g ref="char:EOLhyphen"/>rances of his owne; but
+<pb n="36" facs="tcp:3826:23"/>also to see him terrible in vengeance to his ene<g ref="char:EOLhyphen"/>mies. It is no cruelty to reioyce in iustice. The foolish mercie of men is cruelty to God.</p>
+            </div>
+            <div n="18" type="part">
+               <head>18</head>
+               <p>Rarenesse causeth won<g ref="char:EOLhyphen"/>der; and more then that, incredulitie, in those things which in them<g ref="char:EOLhyphen"/>selues are not more ad<g ref="char:EOLhyphen"/>mirable, than the ordi<g ref="char:EOLhyphen"/>nary proceedings of na<g ref="char:EOLhyphen"/>ture If a blazing starre be seene in the skie, euery man goes forth to gaze, and spendes euery eue<g ref="char:EOLhyphen"/>ning, some time in won<g ref="char:EOLhyphen"/>dering at the beames
+<pb n="37" facs="tcp:3826:23"/>of it. That any foule should bee bred of cor<g ref="char:EOLhyphen"/>rupted wood resolued into wormes, or that the Cameleon should euer change his colours, and liue by ayre; that the Ostrich should digest y<g ref="char:EOLhyphen"/>ron; that the Phoenix should burne her selfe to ashes, and from thence breed a successor; wee wonder, and can scarce credite: Other things more vsuall, no lesse mi<g ref="char:EOLhyphen"/>raculous, wee knowe, and neglect. That there should bee a birde that knoweth, and noteth the houres of day and
+<pb n="38" facs="tcp:3826:24"/>night, as certainely as any Astronomer by the course of heauen; if we knowe not, who would beleeue? Or that the load-stone should by his secret vertue so drawe iron to it selfe, as that a whole chaine of needles should all hang by insen<g ref="char:EOLhyphen"/>sible points at ech other, onely by the influence that it sends down from the first, if it were not ordinarie, would seeme incredible; who would beleeue when hee sees a foule mounted as hie as his sight can descrie it, that there were an en<g ref="char:EOLhyphen"/>gin
+<pb n="39" facs="tcp:3826:24"/>to be framed, which could fetch it downe into his fist? Yea, to omit infinite examples, that a little despised creature should weaue nets out of her owne entrailes, and in her platformes of building should obserue as iust proportions as the best Geometrician, we would suspect for an vntrueth, if we saw it not dayly practised in our owne windowes. If the Sun shuld arise but once to the earth, I doubt eue<g ref="char:EOLhyphen"/>ry man would be a Persi<g ref="char:EOLhyphen"/>an, and fall downe and worship it: whereas
+<pb n="40" facs="tcp:3826:25"/>now it riseth and decli<g ref="char:EOLhyphen"/>neth without regard. Extraordinary euēts ech man can wonder at: The frequence of Gods best workes causeth neglect; not that they are euer the worse for commōnesse; but because we are soon cloyed with the same conceit, and haue con<g ref="char:EOLhyphen"/>tempt bred in vs through familiarity. I wil learne to note Gods power and wisedome, and to giue him praise of both in his ordinary works: so those things which are but tri<g ref="char:EOLhyphen"/>uiall to the most igno<g ref="char:EOLhyphen"/>rant, shall be wonders to
+<pb n="41" facs="tcp:3826:25"/>me; and that not for nine dayes, but for euer.</p>
+            </div>
+            <div n="19" type="part">
+               <head>19</head>
+               <p>Those that affect to tell nouelties and won<g ref="char:EOLhyphen"/>ders fal into many absur<g ref="char:EOLhyphen"/>dities, both in busie en<g ref="char:EOLhyphen"/>quirie after matters im<g ref="char:EOLhyphen"/>pertinent, and in a light credulitie, to what-euer they heare; and in ficti<g ref="char:EOLhyphen"/>ons of their owne, and additions of circumstan<g ref="char:EOLhyphen"/>ces to make their re<g ref="char:EOLhyphen"/>ports the more admired. I haue noted these men, not so much wondred at for their strange stories, while they are telling, as derided afterwards, whē
+<pb n="42" facs="tcp:3826:26"/>the euent hath wrought their disproofe &amp; shame. I will deale with rumors, as graue men doe by strange fashions, take them vp when they are growen into cōmon vse before; I may beleeue, but I wil not relate them but vnder the name of my author; who shall ei<g ref="char:EOLhyphen"/>ther warrant me with de<g ref="char:EOLhyphen"/>fence, if it be true; or if false, beare my shame.</p>
+            </div>
+            <div n="20" type="part">
+               <head>20</head>
+               <p>It was a wittie and true speach of that ob<g ref="char:EOLhyphen"/>scure <hi>Heraclitus,</hi> that all men awaking are in one common worlde, but
+<pb n="43" facs="tcp:3826:26"/>when we sleep, ech man goes into a seueral world by himself; which thogh it bee but a world of fan<g ref="char:EOLhyphen"/>cies, yet is the true image of that little worlde, which is in euery mans heart. For the imagi<g ref="char:EOLhyphen"/>nations of our sleepe, shewe vs what our dis<g ref="char:EOLhyphen"/>positon is awaking. And as many in their dreams reueale those their se<g ref="char:EOLhyphen"/>crets to others, which they would neuer haue done awake: so all may and doe disclose to themselues in their sleep those secret inclina<g ref="char:EOLhyphen"/>tions, which after much
+<pb n="44" facs="tcp:3826:27"/>searching, they could not haue found out wa<g ref="char:EOLhyphen"/>king. I doubt not there<g ref="char:EOLhyphen"/>fore, but as God hereto<g ref="char:EOLhyphen"/>fore hath taught future things in dreames (which kind of reuelation is now ceased) so still hee tea<g ref="char:EOLhyphen"/>cheth the present estate of the heart this way. Some dreames are from our selues, vaine and idle like our selues: Others are diuine, which teach vs good, or mooue vs to good; &amp; others diuelish, which solicite vs to euil. Such answere cōmonly shal I giue to any tēptati<g ref="char:EOLhyphen"/>on in the day as I doe by
+<pb n="45" facs="tcp:3826:27"/>night. I will not lightly passe ouer my verie dreams: They shal teach me somewhat; so neither night nor day shalbe spēt vnprofitably; y<seg rend="sup">e</seg> night shal teach me what I am; the day what I should be.</p>
+            </div>
+            <div n="21" type="part">
+               <head>21</head>
+               <p>Men make difference betwixt seruants friends, and sonnes: Seruants, though neer vs in place, yet for their inferioritie, are not familiar. Friends, though by reason of their equalitie, and our loue, they are familiar; yet still wee conceiue of them as others from our
+<pb n="46" facs="tcp:3826:28"/>selues: But children wee thinke of, affectionate<g ref="char:EOLhyphen"/>ly, as the diuided pee<g ref="char:EOLhyphen"/>ces of our owne bodies: But all these are one to God; his seruants are his friends, his friends are his sonnes; his sonnes, his seruants. Ma<g ref="char:EOLhyphen"/>nie clayme kinred of GOD, and professe friendship to him (be<g ref="char:EOLhyphen"/>cause these are priuiled<g ref="char:EOLhyphen"/>ges without difficultie, and not without honor) all the triall is in seruice. The other are most in affection, and therefore secret, and so may be dissembled; this consi<g ref="char:EOLhyphen"/>sting
+<pb n="47" facs="tcp:3826:28"/>in action must needs shew it selfe to the eyes of others. Ye are my friends if ye doe whatso<g ref="char:EOLhyphen"/>euer I commaund you: friendship with God is in seruice, and this seruice is in action. Many weare Gods cloth, that knowe not their Master, that neuer did good chare in his seruice: so that God hath many retainers that weare his Liuery, for a countenance, neuer waite on him; whom he will neuer owne for ser<g ref="char:EOLhyphen"/>uants either by fauour, or wages; few seruants, and therfore few sonnes.
+<pb n="48" facs="tcp:3826:29"/>It is great fauour in God, and great honour to me, that he will vouchsafe to make mee the lowest drudge in his familie; which place if I had not, and were a Monarch of men, I were accursed. I desire no more but to serue; yet, Lord, thou giuest mee more, to bee thy sonne: I heare <hi>Da<g ref="char:EOLhyphen"/>uid</hi> say, <hi>Seemeth it a small matter to you, to bee the sonne in lawe to a King?</hi> What is it then, oh what is it, to be the true adop<g ref="char:EOLhyphen"/>ted sonne of the King of glory? Let mee not now say as <hi>Dauid</hi> of <hi>Saul,</hi> but
+<pb n="49" facs="tcp:3826:29"/>as <hi>Sauls</hi> grand-childe to <hi>Dauid;</hi> Oh, what is thy seruant, that thou shoul<g ref="char:EOLhyphen"/>dest looke vpon such a dead dogge as I am?</p>
+            </div>
+            <div n="22" type="part">
+               <head>22</head>
+               <p>I am a stranger here belowe, my home is a<g ref="char:EOLhyphen"/>boue; yet I can thinke too well of these foraine vanities, and can not thinke enough of my home. Surely, that is not so farre aboue my head, as my thoughts; neither doth so farre passe me in distance, as in compre<g ref="char:EOLhyphen"/>hension: and yet I would not stand so much vpon conceiuing, if I could ad<g ref="char:EOLhyphen"/>mire
+<pb n="50" facs="tcp:3826:30"/>it enough: but my straight heart is filled with a little wonder; and hath no roume for the greatest part of glorie that remaineth. Oh God what happines hast thou prepared for thy chosen? What a purchase was this, worthy of the blood of such a Sauiour? As yet I doe but looke towardes it afarre off: But it is easie to see by the outside how good<g ref="char:EOLhyphen"/>ly it is within. Although as thine house on earth; so that aboue hath more glorie within than can bee bewrayed by the
+<pb n="51" facs="tcp:3826:30"/>outer appearance. The outer part of thy Taber<g ref="char:EOLhyphen"/>nacle heere belowe is but an earthly and base substance; but within it is furnished with a li<g ref="char:EOLhyphen"/>uing, spirituall, and hea<g ref="char:EOLhyphen"/>uenly guest: so the outer heauens, though they be as gold to all other ma<g ref="char:EOLhyphen"/>teriall creatures; yet they are but drosse to thee: Yet how are euen the outmost walles of that house of thine beautified with glorious lightes, whereof euery one is a world forbignes, and as an heauen for goodlines: Oh teach mee by this to
+<pb n="52" facs="tcp:3826:31"/>long after, and wonder at the inner part, before thou letst mee come in to behold it.</p>
+            </div>
+            <div n="23" type="part">
+               <head>23</head>
+               <p>Riches or beauty, or what-euer worldly good that hath been, doth but grieue vs; that which is, doth not satisfie vs; that which shall be, is vncer<g ref="char:EOLhyphen"/>taine. What follie is it to trust to any of them?</p>
+            </div>
+            <div n="24" type="part">
+               <head>24</head>
+               <p>Securitie makes world<g ref="char:EOLhyphen"/>lings merrie: and there<g ref="char:EOLhyphen"/>fore are they secure, be<g ref="char:EOLhyphen"/>cause they are ignorant. That is onely solide ioy, which ariseth from a re<g ref="char:EOLhyphen"/>solution;
+<pb n="53" facs="tcp:3826:31"/>when the hart hath cast vp a full ac<g ref="char:EOLhyphen"/>count of all causes of dis<g ref="char:EOLhyphen"/>quietnesse, and findeth the causes of his ioy more forceable: there<g ref="char:EOLhyphen"/>upon settling it selfe in a stayed course of reioy<g ref="char:EOLhyphen"/>cing: For the other, so soone as sorrow makes it selfe to be seene, especi<g ref="char:EOLhyphen"/>ally in an vnexpected forme, is swallowed vp in despaire; whereas this can meet with no occur<g ref="char:EOLhyphen"/>rence, which it hath not preuēted in thought: se<g ref="char:EOLhyphen"/>curitie &amp; ignorance may scatter some refuse mor<g ref="char:EOLhyphen"/>sels of ioy, sawced with
+<pb n="54" facs="tcp:3826:32"/>much bitternesse; or may be like some boasting housekeeper, which kee<g ref="char:EOLhyphen"/>peth open doors for one day with much cheer, &amp; liues staruedly al the yeer after. There is no good ordinary but in a good cōscience. I pitie that vn<g ref="char:EOLhyphen"/>foūd ioy in others, &amp; wil seek for this sound ioy in my selfe. I had rather weepe vpon a iust cause, than reioyce vniustly.</p>
+            </div>
+            <div n="25" type="part">
+               <head>25</head>
+               <p>As loue keepes the whole law, so loue onely is the breaker of it; being the ground, as of all obe<g ref="char:EOLhyphen"/>dience, so of all sinne; for
+<pb n="55" facs="tcp:3826:32"/>whereas sinne hath been commonly accounted to haue two rootes, Loue, and Feare; it is plaine, that feare hath his origi<g ref="char:EOLhyphen"/>nall from loue, for no man feares to lose ought but what he loues. Here is sinne and righteous<g ref="char:EOLhyphen"/>nesse brought both into a short summe, depen<g ref="char:EOLhyphen"/>ding both vpon one poore affection: It shall be my onely care there<g ref="char:EOLhyphen"/>fore to bestowe my loue well; both for obiect, and measure. All that is good I may loue, but in seuerall degrees; what is simply good, absolutely;
+<pb n="56" facs="tcp:3826:33"/>what is good by circum<g ref="char:EOLhyphen"/>stance onely with limi<g ref="char:EOLhyphen"/>tation. There bee these three things that I may loue without exception, God, my neighbour, my soule; yet so as each haue their due places: My bo<g ref="char:EOLhyphen"/>dy, goods, fame, &amp;c. as seruants to the former. All other things I will either not care for, or hate.</p>
+            </div>
+            <div n="26" type="part">
+               <head>26</head>
+               <p>One would not think, that pride, and base min<g ref="char:EOLhyphen"/>dednesse should so well agree; yea, that they loue so together, that they neuer goe asunder. That
+<pb n="57" facs="tcp:3826:33"/>enuie euer proceedes from a base minde, is graunted of all: Now the proud man, as hee faine would bee enuied of others, so he enuieth all men. His betters he enuies, because hee is not so good as they: He enuies his inferiours, be<g ref="char:EOLhyphen"/>cause hee feares they should prooue as good as he: His equals, be<g ref="char:EOLhyphen"/>cause they are as good as hee. So vnder a big lookes, he beares a base minde, resembling some Cardinals mule, which to make vp the traine beares a costly porte<g ref="char:EOLhyphen"/>mātle,
+<pb n="58" facs="tcp:3826:34"/>stuffed with trash. On the contrary, who is more proud than the basest (The <hi>Cynicke</hi> tram<g ref="char:EOLhyphen"/>ples on <hi>Platoes</hi> pride, but with a worse) especial<g ref="char:EOLhyphen"/>ly if hee bee but a little exalted; wherein we see base men so much more hauty, as they haue had lesse before what they might bee proud of. It is iust with God, as the proud man is base in himselfe, so to make him basely esteemed in the eyes of others; and at last to make him base without pride. I will contemne a proud man
+<pb n="59" facs="tcp:3826:34"/>because hee is base, and pitie him because hee is proud.</p>
+            </div>
+            <div n="27" type="part">
+               <head>27</head>
+               <p>Let me but haue time to my thoughts; but lea<g ref="char:EOLhyphen"/>sure to thinke of heauen, &amp; grace to my leasure, &amp; I can be happy in spight of the world: Nothing, but God that giues it, can bereaue me of grace; and he will not, for his gifts are without repentance. Nothing but death can abbridge mee of time; and when I begin to want time to thinke of heauen, I shall haue eter<g ref="char:EOLhyphen"/>nall
+<pb n="60" facs="tcp:3826:35"/>leasure to enioy it. I shall bee both wayes happy, not from any ver<g ref="char:EOLhyphen"/>tue of apprehension in mee (which haue no peere in vnworthinesse) but from the glory of that I apprehend; wher<g ref="char:EOLhyphen"/>in the acte and obiect are from the author of hap<g ref="char:EOLhyphen"/>pinesse. Hee giues mee this glory, let me giue him the glory of his gift. His glory is my happi<g ref="char:EOLhyphen"/>nesse, let my glory be his.</p>
+            </div>
+            <div n="28" type="part">
+               <head>28</head>
+               <p>God bestowes fauors vpon some in anger; as he strikes other some in
+<pb n="61" facs="tcp:3826:35"/>loue. The Israelites had better haue wanted their Quailes, then to haue ea<g ref="char:EOLhyphen"/>ten thē with such sawce. And sometimes at our instancie remoouing a lesser punishment, leaues a greater, though insen<g ref="char:EOLhyphen"/>sible, in the roume of it. I will not so much striue against affliction, as dis<g ref="char:EOLhyphen"/>pleasure. Let mee rather be afflicted in loue, than prosper without it.</p>
+            </div>
+            <div n="29" type="part">
+               <head>29</head>
+               <p>It is strange that wee men, hauing so continu<g ref="char:EOLhyphen"/>all vse of God, and be<g ref="char:EOLhyphen"/>ing so perpetually be<g ref="char:EOLhyphen"/>holding to him, should
+<pb n="62" facs="tcp:3826:36"/>bee so strange to him, and so little acquainted with him since wee ac<g ref="char:EOLhyphen"/>count it a peruerse na<g ref="char:EOLhyphen"/>ture in any man, that beeing prouoked with many kinde offices, re<g ref="char:EOLhyphen"/>fuies the familiaritie of a worthy friend, which doeth still seeke it, and hath deserued it. Whēce it comes that wee are so loath to thinke of our dissolution and go<g ref="char:EOLhyphen"/>ing to God: for naturally where wee are not ac<g ref="char:EOLhyphen"/>quainted, wee list not to hazard our welcome; chusing rather to spend our money at a simple
+<pb n="63" facs="tcp:3826:36"/>Inne, then to turne in for a free lodging to an vn<g ref="char:EOLhyphen"/>knowen Host, whome wee haue onely heard of, neuer had friend<g ref="char:EOLhyphen"/>ship with; whereas to an entire friend, whose na<g ref="char:EOLhyphen"/>ture and welcome wee know, &amp; whom we haue elsewhere familiarly cō<g ref="char:EOLhyphen"/>uersed withall, we goe as boldly and willingly as to our home, knowing that no houre can bee vnseasonable to such a one. Whiles on the o<g ref="char:EOLhyphen"/>ther side wee scrape ac<g ref="char:EOLhyphen"/>quaintance with the world, that neuer did vs good, euen after many
+<pb n="64" facs="tcp:3826:37"/>repulses. I will not liue with God, and in God, without his acquaintāce, knowing it my happi<g ref="char:EOLhyphen"/>nes to haue such a friend. I will not let one day passe without some acte of renewing my familia<g ref="char:EOLhyphen"/>rity with him, not giuing ouer til I haue giuen him some restimony of my loue to him, and ioy in him; and till he hath left behind him some pledge of his continued fauour to mee.</p>
+            </div>
+            <div n="30" type="part">
+               <head>30</head>
+               <p>Men, for the most part, would neither die nor be
+<pb n="65" facs="tcp:3826:37"/>old. When we see an a<g ref="char:EOLhyphen"/>ged man that hath ouer<g ref="char:EOLhyphen"/>liued all the teeth of his gummes, the haire of his head, the sight of his eyes, the taste of his pa<g ref="char:EOLhyphen"/>late, wee professe, wee would not liue till such a cumbersome age, wher<g ref="char:EOLhyphen"/>in wee prooue burdens to our dearest friendes, and our selues: Yet if it bee put to our choyce what yeer we would die, we euer shift it off till the next; and want not ex<g ref="char:EOLhyphen"/>cuses for this proroga<g ref="char:EOLhyphen"/>tion, rather than faile al<g ref="char:EOLhyphen"/>ledging wee would liue to amend; when yet we
+<pb n="66" facs="tcp:3826:38"/>doe but adde more to the heape of our sinnes by continuance. Nature hath nothing to pleade for this folly; but, that Life is sweet: Wherein wee giue occasion of re<g ref="char:EOLhyphen"/>newing that auncient checke, or one not vnlike to it; whereby that pri<g ref="char:EOLhyphen"/>mitiue vision taxed the timerousnes of the shrin<g ref="char:EOLhyphen"/>king Confessors; Yee would neither liue to be old, nor die ere your age: what should I doe with you? The Christian must not thinke it enough to endure the thought of death with patiēce, whē
+<pb n="67" facs="tcp:3826:38"/>it is obtruded vpon him by necessitie; but must voluntarily call it into his mind with ioy; not only abiding it should come, but wishing that it might come. I will not leaue till I can resolue, If I might die to day, not to liue till to morrow.</p>
+            </div>
+            <div n="31" type="part">
+               <head>31</head>
+               <p>As a true friend is the sweetest contentment in the worlde: so in his qualities, he well resem<g ref="char:EOLhyphen"/>bleth honie, the sweetest of all liquors: Nothing is more sweete to the taste, nothing more sharpe
+<pb n="68" facs="tcp:3826:39"/>and cleansing, when it meetes with an exulce<g ref="char:EOLhyphen"/>rate sore. For my selfe, I know I must haue faults; and therefore I care not for that friend, that I shal neuer smart by: For my friends, I know they can not bee faultlesse: and therefore as they shall finde me sweete in their prayses and incourage<g ref="char:EOLhyphen"/>ments, so sharpe also in their censure. Either let them abide me no friend to their faults, or no friend to themselues.</p>
+            </div>
+            <div n="32" type="part">
+               <head>32</head>
+               <p>In all other things we
+<pb n="69" facs="tcp:3826:39"/>are led by profit; but in the maine matter of all, wee shew our selues vt<g ref="char:EOLhyphen"/>terly vnthriftie; &amp; whiles wee are wise in making good markets in these base commodities, wee shewe our selues foolish in the great match of our soules. God and the world come both to one shop, and make profers for our soules. The world like a frank chap<g ref="char:EOLhyphen"/>man, sayes, All these wil I giue thee, shewing vs his bagges, and promo<g ref="char:EOLhyphen"/>tions, and thrusting them into our hands. God of<g ref="char:EOLhyphen"/>fers a crowne of glorie,
+<pb n="70" facs="tcp:3826:40"/>which yet he tels vs wee must giue him day to performe, and haue no<g ref="char:EOLhyphen"/>thing in present, but our hope, and some small earnest of the bargaine. Though we know there is no cōparison betwixt these two in value; fin<g ref="char:EOLhyphen"/>ding these earthly things vaine, and vnable to giue any contentment; and those other of inualua<g ref="char:EOLhyphen"/>ble worth and benefite: Yet wee had rather take these in hande, than trust GOD on his word for the future; While yet in the same kinde we chuse rather to take some rich
+<pb n="71" facs="tcp:3826:40"/>Lordships in reuersion, after the long expectati<g ref="char:EOLhyphen"/>on of three liues expired, than a present summe much vnder foote: As contrarily, when God &amp; the world are sellers, and we come to the Mart, The worlde offers fine painted wares, but will not part with thē vnder the price of our torment: God proclaimes, Come yee that want, buy for nought. Now we thriftie men, that trie all shops for the cheapest penni<g ref="char:EOLhyphen"/>worth, refuse GOD, profe<g ref="char:EOLhyphen"/>ring his precious cōmo<g ref="char:EOLhyphen"/>dities for nothing &amp; pay
+<pb n="72" facs="tcp:3826:41"/>an hard price for that which is worse than no<g ref="char:EOLhyphen"/>thing, painefull. Surely, wee are wise for any thing but our soules: and not so wise for the body as foolish for them. O Lord, thy paiment is sure, and who knowes how present? Take the soule that thou hast both made, and bought: And let mee rather giue my life for thy fauour, than take the offers of the world for nothing.</p>
+            </div>
+            <div n="33" type="part">
+               <head>33</head>
+               <p>There was neuer age that more bragged of knowledge, and yet ne<g ref="char:EOLhyphen"/>uer
+<pb n="73" facs="tcp:3826:41"/>any that had lesse soundnesse. Hee that knowes not God, know<g ref="char:EOLhyphen"/>eth nothing; and he that loues not God, knowes him not: For hee is so sweete, and infinitely full of delight, that who<g ref="char:EOLhyphen"/>euer knowes him, can<g ref="char:EOLhyphen"/>not chuse but affect him. The little loue of God then argues the great ig<g ref="char:EOLhyphen"/>norance euen of those that professe knowledge. I will nor suffer my affe<g ref="char:EOLhyphen"/>ctions to run before my knowledge: for then I shall loue fashionably onely, because I heare God is worthy of loue,
+<pb n="74" facs="tcp:3826:42"/>and so bee subiect to re<g ref="char:EOLhyphen"/>lapses: But I wil euer lay knowledge as the groūd of my loue. So, as I grow in diuine knowledge, I shal still profit in an hea<g ref="char:EOLhyphen"/>uenly zeale.</p>
+            </div>
+            <div n="34" type="part">
+               <head>34</head>
+               <p>Those that trauell in long pilgrimages to the holy Land, what a num<g ref="char:EOLhyphen"/>ber of weary pases they measure? what a num<g ref="char:EOLhyphen"/>ber of hard lodgings, and knowen daungers they passe? and at last when they are come within view of their iourneys end, what a large tribute pay they at the <hi>Pisan</hi>
+                  <pb n="75" facs="tcp:3826:42"/>Castel, to the Turkes? And when they are come thither, what see they but the bare Sepulchre wherein their Sauiour lay? and the earth that hee trode vp<g ref="char:EOLhyphen"/>on, to the increase of a carnall deuotion? What labour should I willing<g ref="char:EOLhyphen"/>ly vndertake in my iour<g ref="char:EOLhyphen"/>ney to the true Land of promise, the celestiall Ierusalem; where I shall see and enioy my Sa<g ref="char:EOLhyphen"/>uiour himselfe? What tribute of paine or death should I refuse to pay for my enterance, not into his Sepulchre,
+<pb n="76" facs="tcp:3826:43"/>but his palace of glory; and that not to looke vp<g ref="char:EOLhyphen"/>on, but to possesse it.</p>
+            </div>
+            <div n="35" type="part">
+               <head>35</head>
+               <p>Those that are all in exhortation, no whit in doctrine, are like to them that snuffe the candle, but powre not in oyle. A<g ref="char:EOLhyphen"/>gaine, those that are all in doctrine, nothing in exhortation, drowne the wike in oyle, but light it not; making it fit for vse, if it had fire put to it; but as it is, rather capable of good, than profitable in present: Doctrine, with<g ref="char:EOLhyphen"/>out exhortation, makes men all braine, no heart.
+<pb n="77" facs="tcp:3826:43"/>Exhortatiō, without do<g ref="char:EOLhyphen"/>ctrine, makes the heart full, leaues the braine emptie. Both together make a man: One makes a man wise; the other good. One serues that wee may know our due<g ref="char:EOLhyphen"/>tie, the other that wee may perfourme it. I will labour in both: but I know not in whether more. Men cannot pra<g ref="char:EOLhyphen"/>ctise, vnlesse they know; and they know in vaine, if they practise not. There be two things in euery good worke; Ho<g ref="char:EOLhyphen"/>nour and profite. The later God bestowes vp<g ref="char:EOLhyphen"/>on
+<pb n="78" facs="tcp:3826:44"/>vs, the former hee keepes to himselfe. The profit of our workes re<g ref="char:EOLhyphen"/>doūdeth not to God. My wel-doing extendeth not to thee. The honour of our work may not be al<g ref="char:EOLhyphen"/>lowed vs. My glory I will not giue to another. I wil not abridge God of his part, that he may not be<g ref="char:EOLhyphen"/>reaue me of mine.</p>
+            </div>
+            <div n="37" type="part">
+               <head>37</head>
+               <p>The proud man hath no God; the enuious man hath no neighbor; the angry man hath not himselfe. What can that man haue, that wants himselfe? What is a man
+<pb n="79" facs="tcp:3826:44"/>better, if he haue himself, want all others? What is hee the neerer, if hee haue himselfe, and o<g ref="char:EOLhyphen"/>thers, and yet want God? What good is it then to bee a man, if hee bee ei<g ref="char:EOLhyphen"/>ther wrathfull, proud, or enuious?</p>
+            </div>
+            <div n="38" type="part">
+               <head>38</head>
+               <p>Man that was once the soueraigne Lord of all creatures, whō they ser<g ref="char:EOLhyphen"/>uiceablie attended at all turnes; is now sent to the very basest of al creatures to learn good qualities, Goe to the Pismire, &amp;c. And sees y<seg rend="sup">e</seg> most contēp<g ref="char:EOLhyphen"/>tible creatures preferr'd
+<pb n="80" facs="tcp:3826:45"/>before him: The asse knoweth his owner; wherein we, like the mi<g ref="char:EOLhyphen"/>serable heire of some great Peer, whose house is decayed through the treason of our progeni<g ref="char:EOLhyphen"/>tors, heare and see what Honours and Lordships we should haue had; but nowe finde our selues below many of the vul<g ref="char:EOLhyphen"/>gar: wee haue not so much cause of exaltati<g ref="char:EOLhyphen"/>on, that we are men, and not beasts; as we haue of humiliation, in thinking how much wee were once better then we are; and that nowe in many
+<pb n="81" facs="tcp:3826:45"/>dueties we are men infe<g ref="char:EOLhyphen"/>riour to beastes: so as those whome wee con<g ref="char:EOLhyphen"/>temne, if they had our reason, might more iust<g ref="char:EOLhyphen"/>ly contemne vs; and as they are, may teach vs by their example, and do condemne vs by their practise.</p>
+            </div>
+            <div n="39" type="part">
+               <head>39</head>
+               <p>The idle man is the diuels cushion, on which hee taketh his free ease: who as hee is vncapable of any good, so he is fitly disposed for all euill mo<g ref="char:EOLhyphen"/>tions. The standing wa<g ref="char:EOLhyphen"/>ter soone stinketh; wher<g ref="char:EOLhyphen"/>as the current euer keeps
+<pb n="82" facs="tcp:3826:46"/>cleere and cleanly: con<g ref="char:EOLhyphen"/>ueying down all noysom matter that might infect it, by the force of his streame. If I doe but lit<g ref="char:EOLhyphen"/>tle good to others by my endeuours, yet this is great good to mee, that by my labour I keepe my selfe from hurt.</p>
+            </div>
+            <div n="40" type="part">
+               <head>40</head>
+               <p>There can bee no neerer coniunction in nature, than is betwixt the bodie and the soule; yet these two are of so contrary dispositiō, that as it fals out in an ill matched man and wife, those seruants which the
+<pb n="83" facs="tcp:3826:46"/>one likes best, are most dispraised of the other; so heere, one still takes part against the other in their choice: What benefites the one, is the hurt of the other. The glutting of the body pines the soule; and the soule thriues best when the bodie is pinched. Who can wonder, that there is such faction a<g ref="char:EOLhyphen"/>mongst others, that sees so much in his very selfe? True wisdom is to take, not with the stronger, as the fashion of the world is, but with the better: following herein, not v<g ref="char:EOLhyphen"/>surped
+<pb n="84" facs="tcp:3826:47"/>power, but iu<g ref="char:EOLhyphen"/>stice. It is not hard to discerne, whose the right is; whether the seruaunt should rule or the mi<g ref="char:EOLhyphen"/>stresse. I will labour to make &amp; keepe the peace, by giuing each part his owne indifferently: but if more be affected with an ambitious contenti<g ref="char:EOLhyphen"/>on, I will rather beate <hi>Hagar</hi> out of doors, than shee shall ouer-rule her mistresse.</p>
+            </div>
+            <div n="41" type="part">
+               <head>41</head>
+               <p>I see iron first heated red hote in the fire, and after beaten and harde<g ref="char:EOLhyphen"/>ned with colde water.
+<pb n="85" facs="tcp:3826:47"/>Thus will I deale with an offending friend: first heat him with deserued praise of his vertue, and then beat vpon him, and coole him with repre<g ref="char:EOLhyphen"/>hension: so good nurses when their children are fallen, first take them vp and speake them faire, chide them afterwards: Gentle speach is a good preparatiue for rigor; He shall see that I loue him, by my approbation; and that I loue not his faults, by my reproofe. If hee loue himselfe, hee will loue those that mislike his vices; and if he loue
+<pb n="86" facs="tcp:3826:48"/>not himselfe, it matters not whether he loue me.</p>
+            </div>
+            <div n="42" type="part">
+               <head>42</head>
+               <p>The liker we are to God, which is the best &amp; only good, the better &amp; hap<g ref="char:EOLhyphen"/>pier we must needes be. All sins make vs vnlike him, as being contrary to his perfect holinesse: but some shew more direct contrariety: such is enuy; For, whereas God bring<g ref="char:EOLhyphen"/>eth good out of euill; the enuious man fetcheth e<g ref="char:EOLhyphen"/>uill out of good: wherin also his sin proues a kind of punishment; for wher<g ref="char:EOLhyphen"/>as to good men euen euil things work together to
+<pb n="87" facs="tcp:3826:48"/>their good; contrarily, to the enuious, good things work togither to their e<g ref="char:EOLhyphen"/>uil. The euil, in any man, though neuer so pro<g ref="char:EOLhyphen"/>sperous, I will not enuy, but pity: The good gra<g ref="char:EOLhyphen"/>ces, I will not repine at, but holily emulate; re<g ref="char:EOLhyphen"/>ioycing that they are so good: but grieuing that I am no better.</p>
+            </div>
+            <div n="43" type="part">
+               <head>43</head>
+               <p>The couetous man is like a Spider, as in this that he doth nothing but lay his nets to catch eue<g ref="char:EOLhyphen"/>ry flie, gaping onely for a bootie of gaine; so yet more, in that whiles hee
+<pb n="88" facs="tcp:3826:49"/>makes nets for these flies, he consumeth his owne bowels: so that which is his life is his death. If there bee any creature miserable, it is hee; and yet he is least to bee piti<g ref="char:EOLhyphen"/>ed, because hee makes himselfe miserable; such as hee is I will account him; and will therefore sweepe downe his webs and hate his poyson.</p>
+            </div>
+            <div n="44" type="part">
+               <head>44</head>
+               <p>In heauen there is all life, and no dying; in hell is all death and no life; In earth there is both li<g ref="char:EOLhyphen"/>uing and dying; which, as it is betwixt both, so
+<pb n="89" facs="tcp:3826:49"/>it prepares for both. So that hee which here be<g ref="char:EOLhyphen"/>low dies to sin, doth af<g ref="char:EOLhyphen"/>ter liue in heauen; and contrarily hee that liues in sinne vpō earth dies in hell afterwards. What if I haue no part of ioy here below, but still suc<g ref="char:EOLhyphen"/>cession of afflictions? The wicked haue no part in heauen, and yet they enioy the earth with pleasure: I would not change portions with them. I reioyce, that seeing I cannot haue both, yet I haue the bet<g ref="char:EOLhyphen"/>ter. O Lord, let me passe both my deaths here vp<g ref="char:EOLhyphen"/>on
+<pb n="90" facs="tcp:3826:50"/>earth. I care not how I liue or die, so I may haue nothing but life to looke for in another world.</p>
+            </div>
+            <div n="45" type="part">
+               <head>45</head>
+               <p>The conceipt of pro<g ref="char:EOLhyphen"/>prietie hardens a man a<g ref="char:EOLhyphen"/>gainst many inconueni<g ref="char:EOLhyphen"/>ences, and addeth much to our pleasure: The mother abides many vn<g ref="char:EOLhyphen"/>quiet nights, many pain<g ref="char:EOLhyphen"/>full throwes, and vnplea<g ref="char:EOLhyphen"/>sant sauors of her child, vpon this thought, It is my own. The indulgent father magnifies that in his own sonne, which he would scarce like in a
+<pb n="91" facs="tcp:3826:50"/>stranger. The want of this to God-ward makes vs so subiect to discon<g ref="char:EOLhyphen"/>tentment, &amp; cooleth our delight in him, because we think of him aloofe, as one in whō we are not interessed: If wee could thinke, It is my God that cheereth mee with his presence, and blessings, while I prosper; that affli<g ref="char:EOLhyphen"/>cteth mee in loue, whē I am deiected; my Sauiour is at Gods right hand: my Angels stand in his presence, It could not be but Gods fauour would bee sweeter, his chastise<g ref="char:EOLhyphen"/>ments more easie, his
+<pb n="92" facs="tcp:3826:51"/>benefits more effectuall. I am not my own, while God is not mine: and while he is mine, since I do possesse him, I wil en<g ref="char:EOLhyphen"/>ioy him.</p>
+            </div>
+            <div n="46" type="part">
+               <head>46</head>
+               <p>Nature is of her owne inclination froward, im<g ref="char:EOLhyphen"/>portunately longing af<g ref="char:EOLhyphen"/>ter that which is denied her; and scornefull of what she may haue. If it were appointed that we should liue alwaies vpon earth, how extreamly would wee exclaime of wearinesse, and wish ra<g ref="char:EOLhyphen"/>ther that wee were not? Now it is appointed we
+<pb n="93" facs="tcp:3826:51"/>shal liue here but a while, and then giue roome to our successors, each one affects a kind of eternity vpon earth. I will labour to tame this peeuish and fullen humor of nature, &amp; will like that best that must be.</p>
+            </div>
+            <div n="47" type="part">
+               <head>47</head>
+               <p>All true earthly plea<g ref="char:EOLhyphen"/>sure forsooke man when he forsooke his creator; what honest and holy delight he before tooke in the duetifull seruices of the obsequious crea<g ref="char:EOLhyphen"/>tures; in the contempla<g ref="char:EOLhyphen"/>tion of that admirable varietie, and strangenes
+<pb n="94" facs="tcp:3826:52"/>of their properties; in seeing their sweete ac<g ref="char:EOLhyphen"/>cordance with each o<g ref="char:EOLhyphen"/>ther, and all with him<g ref="char:EOLhyphen"/>selfe? Nowe most of our pleasure is to set one creature together by the eares with ano<g ref="char:EOLhyphen"/>ther; sporting our selues onely with that defor<g ref="char:EOLhyphen"/>mitie, which was bred through our owne fault. Yea, there haue been, that haue delighted to see one man spill ano<g ref="char:EOLhyphen"/>thers blood vpon the sand; and haue shou<g ref="char:EOLhyphen"/>ted for ioy at the sight of that slaughter, which hath fallen out vpon
+<pb n="95" facs="tcp:3826:52"/>no other quarell but the pleasure of the be<g ref="char:EOLhyphen"/>holders: I doubt not but as wee solace our selues in the discorde of the inferiour crea<g ref="char:EOLhyphen"/>tures; so the euill spi<g ref="char:EOLhyphen"/>rits sporte themselues in our dissensions. There are better qualities of the creature, which we passe ouer without plea<g ref="char:EOLhyphen"/>sure. In recreations I vvill choose those which are of best ex<g ref="char:EOLhyphen"/>ample and best vse; see<g ref="char:EOLhyphen"/>king those by which I may not onely bee the merryer, but the bet<g ref="char:EOLhyphen"/>ter.</p>
+            </div>
+            <div n="48" type="part">
+               <pb n="96" facs="tcp:3826:53"/>
+               <head>48</head>
+               <p>There is no want for which a man may not find a remedy in himself. Doe I want riches? Hee that desires but little, cannot want much. Doe I want friends? If I loue God enough, &amp; my selfe but enough, it matters not. Do I want health? If I want it but a little, &amp; recouer. I shall esteeme it the more, because I wanted. If I be long sicke and vnrecouerably, I shal be the fitter and wil<g ref="char:EOLhyphen"/>linger to die; &amp; my paine is so much lesse sharpe, by how much more it
+<pb n="97" facs="tcp:3826:53"/>lingreth. Doe I want maintenance? A little and course will content nature. Let my minde bee no more ambitious then my backe and belly. I can hardly complaine of too little. Doe I want sleepe? I am going whi<g ref="char:EOLhyphen"/>ther there is no vse of sleepe: where all rest, and sleepe not. Doe I want childrē? Many that haue them, wish they wanted: It is better to be child<g ref="char:EOLhyphen"/>lesse, than crossed with their miscariage. Doe I want learning? Hee hath none, that sayth he hath enough. The next
+<pb n="98" facs="tcp:3826:54"/>way to get more, is to finde thou wantest. There is remedie for all wants in our selues, sauing onely for want of grace: and that a man cannot so much as see and complaine that hee wants, but from aboue.</p>
+            </div>
+            <div n="49" type="part">
+               <head>49</head>
+               <p>Euery vertuous acti<g ref="char:EOLhyphen"/>on (like the Sunne eclip<g ref="char:EOLhyphen"/>sed) hath a double sha<g ref="char:EOLhyphen"/>dowe; according to the diuers aspects of the be<g ref="char:EOLhyphen"/>holders: One of glory, the other of enuie. Glo<g ref="char:EOLhyphen"/>rie followes vpon good deserts; Enuie vpon glo<g ref="char:EOLhyphen"/>rie.
+<pb n="99" facs="tcp:3826:54"/>Hee that is enuyed may thinke himselfe well: for hee that en<g ref="char:EOLhyphen"/>uies him, thinkes him more then well: I know no vice in another wher<g ref="char:EOLhyphen"/>of a man may make so good and comforta<g ref="char:EOLhyphen"/>ble vse to himselfe. There would bee no shadowe, if there were no light.</p>
+            </div>
+            <div n="50" type="part">
+               <head>50</head>
+               <p>In meddling with the faultes of friendes, I haue obserued many wrongfull courses; what for feare, or selfe-loue, or indiscretiō: some I haue
+<pb n="100" facs="tcp:3826:55"/>seen, like vnmerciful and couetous Chirurgians, keepe the wound rawe, which they might haue seasonably remedied, for their own gaine: Others that haue layd healing plaisters to skin it aloft, when there hath beene more neede of corasiues to eat out the dead flesh within: Others, that haue galled and drawen when there hath beene nothing but solid flesh, that hath wanted onely filling vp. Others that haue healed the fore, but left an vnsightly scarre of discredite behind them:
+<pb n="101" facs="tcp:3826:55"/>He that would do good this waye must haue fi<g ref="char:EOLhyphen"/>delitie, courage, discre<g ref="char:EOLhyphen"/>tion, patience. Fidelity, not to beare with; cou<g ref="char:EOLhyphen"/>rage, to reprooue them; discretion, to reprooue them well; patience, to abide the leasure of a<g ref="char:EOLhyphen"/>mendement; making much of good begin<g ref="char:EOLhyphen"/>nings, and putting vp many repulses, bearing with many weakenesses; still hoping; still solici<g ref="char:EOLhyphen"/>ting; as knowing that those who haue beene long vsed to fetters can<g ref="char:EOLhyphen"/>not but halt a while, whē they are taken off.</p>
+            </div>
+            <div n="51" type="part">
+               <pb n="102" facs="tcp:3826:56"/>
+               <head>51</head>
+               <p>God hath made al the worlde, and yet what a little part of it is his? Di<g ref="char:EOLhyphen"/>uide the worlde into foure parts; but one, and the least containeth all that is worthy the name of Christendome? The rest ouer-whelmed with Turcisme, and Paga<g ref="char:EOLhyphen"/>nisme: And of this least part, the greater halfe yet holding aright con<g ref="char:EOLhyphen"/>cerning God and their Sauiour in some com<g ref="char:EOLhyphen"/>mon principles, ouer<g ref="char:EOLhyphen"/>throw the trueth in their conclusions; and so leaue the lesser part of the least
+<pb n="103" facs="tcp:3826:56"/>part for God. Yet lower; of those that hold aright concerning Christ, how fewe are there, that doe otherwise then fashio<g ref="char:EOLhyphen"/>nably professe him? And of those that doe serious<g ref="char:EOLhyphen"/>ly professe him, howe fewe are there that in their liues deny him not, liuing worthy of so glo<g ref="char:EOLhyphen"/>rious a calling? Where<g ref="char:EOLhyphen"/>in I doe not pitie God, who wil haue glory euen of those that are not his: I pitie miserable men that do reiect their Cre<g ref="char:EOLhyphen"/>ator and Redeemer, and themselues in him. And I enuie Satā, that he ruleth
+<pb n="104" facs="tcp:3826:57"/>so large. Since God hath so few, I will bee more thankefull that hee hath vouchsafed mee one of his; and be the more zea<g ref="char:EOLhyphen"/>lous of glorifying him, because wee haue but a few fellowes.</p>
+            </div>
+            <div n="52" type="part">
+               <head>52</head>
+               <p>As those that haue ta<g ref="char:EOLhyphen"/>sted of some delicate dish, finde other plaine dishes but vnpleasant; so it fareth with those which haue once tasted of heauenly things, they cannot but cōtemne the best worldly pleasures: As therefore some dain<g ref="char:EOLhyphen"/>tie guest knowing there
+<pb n="105" facs="tcp:3826:57"/>is so pleasant fare to come, I will reserue my appetite for it, and not suffer my selfe cloyed with the course diet of the world.</p>
+            </div>
+            <div n="53" type="part">
+               <head>53</head>
+               <p>I finde many places where God hath vsed the hand of good Angels for the punishmēt of the wicked; but neuer could yet find one wherein he employed; an euill An<g ref="char:EOLhyphen"/>gel in any direct good to his children. Indirect I finde many, if not all, through the power of him that brings light out of darkenesse, and turnes
+<pb n="106" facs="tcp:3826:58"/>their euill to our good: In this choice GOD would and must be imi<g ref="char:EOLhyphen"/>tated. From an euill spi<g ref="char:EOLhyphen"/>rit I dare not receiue ought, if neuer so good; I will receiue as little as I may from a wicked man. If he were as perfectly euill as the other, I durst receiue nothing; I had rather hunger then wil<g ref="char:EOLhyphen"/>fully dippe my hand in a wicked mans dish.</p>
+            </div>
+            <div n="54" type="part">
+               <head>54</head>
+               <p>We are ready to con<g ref="char:EOLhyphen"/>demne others for that which is as eminently faulty in our selues. If
+<pb n="107" facs="tcp:3826:58"/>one blinde man rush vp<g ref="char:EOLhyphen"/>on another in the way; either complaines of o<g ref="char:EOLhyphen"/>thers blindnesse, neither of his owne. I haue heard those which haue had most corrupt lungs cō<g ref="char:EOLhyphen"/>playne of the vnsauory breath of others. The reason is because the minde casteth altoge<g ref="char:EOLhyphen"/>ther outward, and re<g ref="char:EOLhyphen"/>flecteth not into it selfe. Yet it is more shamefull to be either ignorant of, or fauorable to our own imperfections. I will cen<g ref="char:EOLhyphen"/>sure others vices feare<g ref="char:EOLhyphen"/>fully, my own cōfidently, because I know thē; and
+<pb n="108" facs="tcp:3826:59"/>those I know not I will suspect.</p>
+            </div>
+            <div n="55" type="part">
+               <head>55</head>
+               <p>Hee is a very humble man that thinks not him<g ref="char:EOLhyphen"/>selfe better then some o<g ref="char:EOLhyphen"/>thers; and hee is very meane, whome some o<g ref="char:EOLhyphen"/>thers doe not account better than themselues: so that vessell that see<g ref="char:EOLhyphen"/>med very small vpon the maine, seemes a tall ship vpon the Thames. As there are many better for estate then my selfe; so there are some worse; and if I were yet worse, yet would there be some lower: and if I were so
+<pb n="109" facs="tcp:3826:59"/>low that I accounted my selfe the worst of all; yet some would accoūt thē<g ref="char:EOLhyphen"/>selues in worse case. A mans opiniō is in others; his being is in himselfe. Let me know my self, let others ghesse at me. Let others either enuie or pitie mee. I care not so long as I enioy my selfe.</p>
+            </div>
+            <div n="56" type="part">
+               <head>56</head>
+               <p>He can neuer wonder enough at Gods worke<g ref="char:EOLhyphen"/>manship, that knowes not the frame of the world: for he can neuer els cōceiue of the huge<g ref="char:EOLhyphen"/>nes, &amp; strange proporti<g ref="char:EOLhyphen"/>on of the creatures. And
+<pb n="110" facs="tcp:3826:60"/>he that knowes this can neuer wonder more, at any thing else. I will learne to knowe, that I may admire; and by that little I knowe, I will more wonder at that I know not.</p>
+            </div>
+            <div n="57" type="part">
+               <head>57</head>
+               <p>There is nothing he lowe, but toyling, grie<g ref="char:EOLhyphen"/>uing, wishing, hoping, seuring; and wearinesse in all these. What fooles are wee to bee besotted with the loue of our own trouble, and to hate our liberty and rest. The loue of misery is much worse than miserie it selfe. We
+<pb n="111" facs="tcp:3826:60"/>must first pray that God would make vs wise, be<g ref="char:EOLhyphen"/>fore wee can wish hee would make vs happy.</p>
+            </div>
+            <div n="58" type="part">
+               <head>58</head>
+               <p>If a man referre all things to himselfe, no<g ref="char:EOLhyphen"/>thing seemes enough: If all things to GOD, any measure wil content him of earthly things; but in grace hee is infa<g ref="char:EOLhyphen"/>tiable: worldlings serue themselues altogether in GOD, making Re<g ref="char:EOLhyphen"/>ligion but to serue their turns as a colour of their ambition, and couetous<g ref="char:EOLhyphen"/>nes: The Christian seeks GOD onely in seeking
+<pb n="112" facs="tcp:3826:61"/>himselfe, vsing all other things but as subordi<g ref="char:EOLhyphen"/>nately to him; not caring whether himselfe win or lose, so that God may win glory in both. I will not suffer mine eyes and mind to be boūded with these visible things; but will looke through all these matters, at GOD which is the vtmost scope of them: Accoun<g ref="char:EOLhyphen"/>ting them onely as a through-fare to passe by, not as an habitation to rest in.</p>
+            </div>
+            <div n="59" type="part">
+               <head>59</head>
+               <p>He is wealthy enough that wanteth not: He is
+<pb n="113" facs="tcp:3826:61"/>great enough that is his owne master: He is hap<g ref="char:EOLhyphen"/>py enough, that liues to dye well. Other things I will not care for; nor too much for these, saue onely for the last which alone can admit of no immoderation.</p>
+            </div>
+            <div n="60" type="part">
+               <head>60</head>
+               <p>A man of extraordi<g ref="char:EOLhyphen"/>nary parts makes him<g ref="char:EOLhyphen"/>selfe by strange and sin<g ref="char:EOLhyphen"/>gular behauiour more admired; which if a man of but common faculty doe imitate, hee makes himselfe ridiculous: for that which is construed as naturall to the one, is
+<pb n="114" facs="tcp:3826:62"/>descried to be affected in the other. And there is nothing forced by affec<g ref="char:EOLhyphen"/>tation can be comely. I wil euer striue to go in the common rode: so while I am not notable, I shall not bee notori<g ref="char:EOLhyphen"/>ous.</p>
+            </div>
+            <div n="61" type="part">
+               <head>61</head>
+               <p>Gold is the best me<g ref="char:EOLhyphen"/>tall, &amp; for the puritie not subiect to rust, as all o<g ref="char:EOLhyphen"/>thers; and yet the best gold hath somedrosse. I esteeme not that man that hath no faults; I like him well that hath but a fewe, and those not great.</p>
+            </div>
+            <div n="62" type="part">
+               <pb n="115" facs="tcp:3826:62"/>
+               <head>62</head>
+               <p>Many a man marres a good estate, for want of skill to proportion his carriage answerably to his abilitie. A little sayle to a large vessell riddes no way, though the winde bee faire; A large sayle to a little Barke drownes it; A top<g ref="char:EOLhyphen"/>saile to a ship of meane burden in a rough wea<g ref="char:EOLhyphen"/>ther is daungerous; A lowe fayle in an easie gale yeelds little aduan<g ref="char:EOLhyphen"/>tage: This disproporti<g ref="char:EOLhyphen"/>on causeth some to liue miserably in a good e<g ref="char:EOLhyphen"/>state; and some to make a
+<pb n="116" facs="tcp:3826:63"/>good estate miserable. I will first knowe what I may doe for safety, and then I will trie what I can doe for speede.</p>
+            </div>
+            <div n="63" type="part">
+               <head>63</head>
+               <p>The rich man hath many friends; although in truth riches haue thē, and not the man: As the Asse, that carried the E<g ref="char:EOLhyphen"/>gyptian Goddesse, had many bowed knees, yet not to the beast, but to the burden. For, separate the riches from the per<g ref="char:EOLhyphen"/>son, and thou shalt see friendship leaue the man, &amp; follow that which was euer her obiect: while
+<pb n="117" facs="tcp:3826:63"/>he may command, and can either giue, or con<g ref="char:EOLhyphen"/>trol, he hath attendance, and profer of loue at all hāds; but which of these da<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es acknowledge him, when he is going to pri<g ref="char:EOLhyphen"/>son for debt? Then these Waspes, that made such musick about this Gally<g ref="char:EOLhyphen"/>pot, shew plainely that they came onely for the hony that was in it. This is the misery of the weal<g ref="char:EOLhyphen"/>thie, that they cannot knowe their friendes: Whereas those that loue the poore man, loue him for himselfe. Hee that would chuse a true friēd,
+<pb n="118" facs="tcp:3826:64"/>must search out one that is neither couetous nor ambitious; for such a one loues but himself in thee. And if it be rare to finde any not infected with these qualities, the best is to entertaine all, and trust few.</p>
+            </div>
+            <div n="64" type="part">
+               <head>64</head>
+               <p>That which the French Prouerbe hath of sick<g ref="char:EOLhyphen"/>nesses, is true of all e<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ls, that they come on hors<g ref="char:EOLhyphen"/>backe, and go away on foot: We haue oft seen a sudden fal, or one meales surfet hath stuck by ma<g ref="char:EOLhyphen"/>ny to their graues: wher<g ref="char:EOLhyphen"/>as pleasures come like
+<pb n="119" facs="tcp:3826:64"/>oxen, slowe and heauily; and goe away like post<g ref="char:EOLhyphen"/>horses, vpon the spurre. Sorowes, because they are lingering guests, I will entertaine but mo<g ref="char:EOLhyphen"/>derately; knowing that the more they are made of, the longer they will continue: And for plea<g ref="char:EOLhyphen"/>sures, because they stay not, and doe but call to drinke at my doore, I will vse them as passengers, with sleight respect. He is his owne best friend, that makes least of both of them.</p>
+            </div>
+            <div n="65" type="part">
+               <head>65</head>
+               <p>It is indeed more com<g ref="char:EOLhyphen"/>mendable
+<pb n="120" facs="tcp:3826:65"/>to giue good example, than to take it; yet imitation, how-euer in ciuil matters it be con<g ref="char:EOLhyphen"/>demned of seruilitie, in Christiā practise hath his due praise; and though it be more naturall for be<g ref="char:EOLhyphen"/>ginners at their first imi<g ref="char:EOLhyphen"/>tation, that cannot swim without bladders; yet the best proficient shal see e<g ref="char:EOLhyphen"/>uer some higher steps of those that haue gone to heauen before him, wor<g ref="char:EOLhyphen"/>thy of his tracing: wher<g ref="char:EOLhyphen"/>in much caution must be had, that wee follow good men, and in good: Good men, for if wee
+<pb n="121" facs="tcp:3826:65"/>propoūd imperfect pat<g ref="char:EOLhyphen"/>ternes to our selues, wee shall be constrained first to vnlearne those ill ha<g ref="char:EOLhyphen"/>bits we haue got by their imitation, before we can be capable of good: so besides the losse of labor, we are further off from our end: In good; for, that a man should be so wed<g ref="char:EOLhyphen"/>ded to any mans person that he can make no se<g ref="char:EOLhyphen"/>paration from his infir<g ref="char:EOLhyphen"/>mities, is both absurdly seruile and vnchristian. He therefore that would follow well, must knowe to distinguish well, be<g ref="char:EOLhyphen"/>twixt good men &amp; euill,
+<pb n="122" facs="tcp:3826:66"/>betwixt good men and better, betwixt good qualities and infirmities. Why hath God giuen me educatiō not in a de<g ref="char:EOLhyphen"/>sert alone, but in the cō<g ref="char:EOLhyphen"/>pany of good &amp; vertuous men; but that by y<seg rend="sup">e</seg> sight of their good cariage I should better my owne? Why should we haue in<g ref="char:EOLhyphen"/>terest in the vices of men and not in their vertues? And although precepts be surer, yet a good mans action is according to precept, yea, is a precept it self. The Psalmist com<g ref="char:EOLhyphen"/>pares the law of God to a lanterne; good exāple
+<pb n="123" facs="tcp:3826:66"/>beares it. It is safe folow<g ref="char:EOLhyphen"/>ing him that carries the light. If he walke with<g ref="char:EOLhyphen"/>out the light, hee shall walke without me.</p>
+            </div>
+            <div n="66" type="part">
+               <head>66</head>
+               <p>As there is one cōmon end to all good men, sal<g ref="char:EOLhyphen"/>uatiō; and one author of it, Christ: So there is but one way to it, dooing well, and suffering euill. Doing wel (me thinks) is like the Zodiack in the heauen, the hie-way of the Sun, through which it dayly passeth; suffe<g ref="char:EOLhyphen"/>ring euill is like the E<g ref="char:EOLhyphen"/>clipticke line that goes through the midst of it.
+<pb n="124" facs="tcp:3826:67"/>The rule of doing well, the law of God, is vni<g ref="char:EOLhyphen"/>forme and eternall; and the copies of suffering e<g ref="char:EOLhyphen"/>uill in all times agree with the originall; No man can either doe well, or suffer ill without an example: Are we sawen in pieces? so was <hi>Esay;</hi> Are we headed? so <hi>Iohn Baptist;</hi> Crucified? so <hi>Peter;</hi> Throwen to wild beasts? so <hi>Daniel;</hi> Into the fornace? so the three children; Stoned? so <hi>Steuen;</hi> Banished? so the beloued disciple; Burnt? so millions of Martyrs; Defamed and flandered?
+<pb n="125" facs="tcp:3826:67"/>what good man euer was not? It were easie to bee endlesse both in torments and sufferers: whereof each hath be<g ref="char:EOLhyphen"/>gunne to other, all to vs. I may not hope to speede better than the best Christians; I cannot feare to fare worse. It is no matter which way I goe, so I come to heauen.</p>
+            </div>
+            <div n="67" type="part">
+               <head>67</head>
+               <p>There is nothing be<g ref="char:EOLhyphen"/>side life of this nature, that it is diminished by addition: Euery moment wee liue longer then o<g ref="char:EOLhyphen"/>ther, and each moment that we liue longer is so
+<pb n="126" facs="tcp:3826:68"/>much takē out of our life. It increaseth and dimini<g ref="char:EOLhyphen"/>sheth onely by minutes; and therefore is not per<g ref="char:EOLhyphen"/>ceiued: The shorter steppes it taketh, the more slily it passeth. Time shall not so steale vpon me that I shall not discerne it, and catch it by the fore-lockes; nor so steale from me, that it shall carry with it no witnesse of his passage in my proficiencie.</p>
+            </div>
+            <div n="68" type="part">
+               <head>68</head>
+               <p>The prodigall man, while hee spendeth, is magnified; when hee is spent is pitied: and that
+<pb n="127" facs="tcp:3826:68"/>is all his recompence for his lauisht Patrimonie. The couetous man is grudged while he liues, and his death is reioyced at: for, when he endes, his riches begin to bee goods. Hee that wisely keepes the meane be<g ref="char:EOLhyphen"/>tweene both, liueth wel, and heares well; neither repined at by the needie, nor pittied by greater men. I would so manage these worldly commodi<g ref="char:EOLhyphen"/>ties, as accounting them mine to dispose, others to partake of.</p>
+            </div>
+            <div n="69" type="part">
+               <head>69</head>
+               <p>A good name (if any
+<pb n="128" facs="tcp:3826:69"/>earthly thing) is worth seeking, worth striuing for; yet to affect a bare name, when we deserue either ill, or nothing, is but a proud hypocrisie: And to be puffed vp with the wrongful estimation of others mis-taking our worth, is an idle and ridi<g ref="char:EOLhyphen"/>culous pride. Thou art well spoken of vpon no desert: what then? Thou hast deceiued thy neigh<g ref="char:EOLhyphen"/>bours, they one another; &amp; al of thē haue deceiued thee: for thou madest thē thinke of thee otherwise than thou art; and they haue made thee think of
+<pb n="129" facs="tcp:3826:69"/>thy selfe as thou art ac<g ref="char:EOLhyphen"/>counted: The deceit came frō thee the shame will ende in thee. I will account no wrong grea<g ref="char:EOLhyphen"/>ter, than for a man to e<g ref="char:EOLhyphen"/>steeme and report mee aboue that I am; not re<g ref="char:EOLhyphen"/>ioycing in that I am wel thought of, but in that I am such as I am estee<g ref="char:EOLhyphen"/>med.</p>
+            </div>
+            <div n="70" type="part">
+               <head>70</head>
+               <p>It was a speach wor<g ref="char:EOLhyphen"/>thy, the commendation, &amp; frequent remembrāce of so diuine a Bishop as <hi>Augustine,</hi> which is re<g ref="char:EOLhyphen"/>ported of an aged father in his time, who when
+<pb n="130" facs="tcp:3826:70"/>his friendes comforted him on his sicke bed, and told him, they hoped he shuld recouer, answered; If I shall not die at all, well: but if euer, why not now? Surely, it is folly what we must doe to do vnwillingly. I wil neuer thinke my soule in good case, so long as I am loth to thinke of dying; and will make this my com<g ref="char:EOLhyphen"/>fort; Not, I shall yet liue longer, but I shall yet do more good.</p>
+            </div>
+            <div n="71" type="part">
+               <head>71</head>
+               <p>Excesses are neuer a<g ref="char:EOLhyphen"/>lone: Commonly those that haue excellēt parts,
+<pb n="131" facs="tcp:3826:70"/>haue some extreamly vi<g ref="char:EOLhyphen"/>cious qualities: great wits haue great errors; &amp; great estates haue great cares: whereas medio<g ref="char:EOLhyphen"/>crity of gifts or of estate, hath vsually but easie in<g ref="char:EOLhyphen"/>conneniences: Else the excellent would not knowe themselues, and the meane would bee too much deiected. Now those whom we admire for their saculties, wee pity for their infirmities; and those which finde themselues but of the ordinary pitch, ioy that as their vertues so their vices are not eminent.
+<pb n="132" facs="tcp:3826:71"/>So the highest haue a blemished glory, and the meane are contentedly secure. I wil magnifie the highest, but affect the meane.</p>
+            </div>
+            <div n="72" type="part">
+               <head>72</head>
+               <p>The body is the case, or sheath of the minde: yet as naturally it hideth it; so it doth also many times discouer it: For al<g ref="char:EOLhyphen"/>though the forehead, eyes, and frame of the countenance doe some times belie the dispositi<g ref="char:EOLhyphen"/>on of the heart, yet most cōmonly they giue true general verdicts. An an<g ref="char:EOLhyphen"/>gry mans browes are
+<pb n="133" facs="tcp:3826:71"/>bent together, &amp; his eyes sparkle with rage, which when he is well pleased, looke smooth &amp; cheare<g ref="char:EOLhyphen"/>fully. Enuy hath one look; desire another; sorow yet another; contentment, a fourth, different from all the rest. To shewe no passion is too Stoical, to shew all is impotent; to shew other than we feel, hypocriticall. The face &amp; gesture do but write, and make commentaries vpon the heart. I wil first endeuor so to frame and order that, as not to en<g ref="char:EOLhyphen"/>tertaine any passion, but what I need not care to
+<pb n="134" facs="tcp:3826:72"/>haue layed open to the worlde: and therefore will first see that the Text be good; then that the glosse bee true; and lastly that it be sparing. To what ende hath God so walled in the heart, if I should let euery mans eyes into it by my coun<g ref="char:EOLhyphen"/>tenance?</p>
+            </div>
+            <div n="73" type="part">
+               <head>73</head>
+               <p>There is no publique actiō which the world is not ready to scan; there is no action so priuate, which the euil spirits are not witnesses of: I wil en<g ref="char:EOLhyphen"/>deuor so to liue, a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> know<g ref="char:EOLhyphen"/>ing that I am euer in the
+<pb n="135" facs="tcp:3826:72"/>eyes of mine enemies.</p>
+            </div>
+            <div n="74" type="part">
+               <head>74</head>
+               <p>When we our selues, and all other vices are old, then couetousnes a<g ref="char:EOLhyphen"/>lone is yong, and at his best age. This vice loues to dwell in an olde rui<g ref="char:EOLhyphen"/>nous cotage: Yet that age can haue no such ho<g ref="char:EOLhyphen"/>nest colour for niggard<g ref="char:EOLhyphen"/>lines &amp; insatiable desire. A young man might plead the vncertainty of his estate &amp; doubt of his future need; but an old man sees his set period before him. Since this hu<g ref="char:EOLunhyphen"/>mor is so necessarily an<g ref="char:EOLhyphen"/>nexed to this age, I will
+<pb n="136" facs="tcp:3826:73"/>turne it the right way, and nourish it in my self. The older I growe, the more couetous I wil be; but of the riches, not of the world that I am lea<g ref="char:EOLhyphen"/>uing, but of the world I am entring into. It is good coueting what I may haue, and cannot leaue behind me.</p>
+            </div>
+            <div n="75" type="part">
+               <head>75</head>
+               <p>There is a mutuall ha<g ref="char:EOLhyphen"/>tred betwixt a Christian, and the world: for on the one side, the loue of the worlde is enmitie with God; and Gods children cannot but take their fa<g ref="char:EOLhyphen"/>thers part. On the other,
+<pb n="137" facs="tcp:3826:73"/>The world hates you be<g ref="char:EOLhyphen"/>cause it hated mee first. But the hatred of the good man to the wicked is not so extream, as that wherewith hee is hated. For the Christian hates euer with commiserati<g ref="char:EOLhyphen"/>on and loue of that good hee sees in the worst; knowing that the essence of the very diuels is good &amp; that the lewdest man hath some excellēt parts of nature, or common graces of the Spirit of God, which hee warily singleth out in his affecti<g ref="char:EOLhyphen"/>on. But the wicked man hates him for goodnes,
+<pb n="138" facs="tcp:3826:74"/>and therefore findes no<g ref="char:EOLhyphen"/>thing in himselfe to mo<g ref="char:EOLhyphen"/>derate his detestation. There can be no better Musicke in my eare, than the discord of the wic<g ref="char:EOLhyphen"/>ked. If he like me. I am a<g ref="char:EOLhyphen"/>fraid he spies some quali<g ref="char:EOLhyphen"/>tie in me like to his own; If hee sawe nothing but goodnes, he could not loue me, and be bad him<g ref="char:EOLhyphen"/>selfe. It was a iust doubt of <hi>Phocion,</hi> who when the people praised him, asked, What euill haue I done? I will striue to deserue ill of none: but not deseruing ill, it shall not grieue mee to heare
+<pb n="139" facs="tcp:3826:74"/>ill of those that are euil. I knowe no greater argu<g ref="char:EOLhyphen"/>mēt of goodnes, than the hatred of a wicked man.</p>
+            </div>
+            <div n="76" type="part">
+               <head>76</head>
+               <p>A man that comes hun<g ref="char:EOLhyphen"/>gry to his meale, feedes heartily on the meate set before him, not regard<g ref="char:EOLhyphen"/>ing the metal, or form of the platter, wherein it is serued; who afterwards whē his stomack is satis<g ref="char:EOLhyphen"/>fied, begins to play with the dish, or to read sentē<g ref="char:EOLhyphen"/>ces on his trēcher. Those auditors which can find nothing to doe, but note elegant words &amp; phra<g ref="char:EOLhyphen"/>ses, or rhetorical colours,
+<pb n="140" facs="tcp:3826:75"/>or perhaps an il grace of gesture in a pithie and materiall speach, argue themselues full ere they came to the feast: and therefore goe away with a little pleasure, no profit. In hearing others, my onely intention shall be to feede my minde with solide matter: if my eare can get ought by the way, I will not grudge it, but I will not intend it.</p>
+            </div>
+            <div n="77" type="part">
+               <head>77</head>
+               <p>The ioy of a Christian in these worldly things is limited, and euer awed with feare of excesse, but recompensed abundant<g ref="char:EOLhyphen"/>ly
+<pb n="141" facs="tcp:3826:75"/>with his spirituall mirth: wheras the world<g ref="char:EOLhyphen"/>ling giues the reignes to his minde, and powres himselfe out into plea<g ref="char:EOLhyphen"/>sure, fearing only that he shall not ioy enough. He that is but halfe a Chri<g ref="char:EOLhyphen"/>stian, liues most misera<g ref="char:EOLhyphen"/>bly; for he neither enioy<g ref="char:EOLhyphen"/>eth God, nor the world. Not God, because hee hath not grace enogh to make him his own: Not the world, because hee hath some taste of grace; enough to shew him the vanitie and sinne of his pleasures. So the sound Christiā hath his heauen
+<pb n="142" facs="tcp:3826:76"/>aboue, the worldling here below; the vnsetled Christian no where.</p>
+            </div>
+            <div n="78" type="part">
+               <head>78</head>
+               <p>Good deeds are very fruitfull; &amp; not so much of their nature, as of Gods blessing multiplia<g ref="char:EOLhyphen"/>ble: We thinke ten in the hundred extreame and biting vsury; God giues vs more then an hundred for tenne: Yea, aboue the increase of the grain which wee commend most for multiplication. For out of one good a<g ref="char:EOLhyphen"/>ction of ours, God pro<g ref="char:EOLhyphen"/>duceth a thousand; the haruest whereof is per<g ref="char:EOLhyphen"/>petuall:
+<pb n="143" facs="tcp:3826:76"/>Euen the faith<g ref="char:EOLhyphen"/>full actions of the olde Patriarkes, the constant suffrings of ancient Mar<g ref="char:EOLhyphen"/>tyrs liue still, and still doe good to all successions of ages by their example. For publique actions of vertue, besides that they are presently confortable to the doers, are also ex<g ref="char:EOLhyphen"/>emplary to others: &amp; as they are more benefici<g ref="char:EOLhyphen"/>all to others, so are more crowned in vs. If good deedes were vtterly bar<g ref="char:EOLhyphen"/>ren &amp; incommodious, I would seeke after them for the cōscience of their own goodness: how much
+<pb n="144" facs="tcp:3826:77"/>more shall I now bee in<g ref="char:EOLhyphen"/>couraged to performe them, for that they are so profitable both to my selfe, and to others, and to mee in others? My principall care shall be, that while my soule liues in glory in heauen, my good actions may liue vpon earth; and that they may be put into the bank and multiplie, while my body lies in the graue and consumeth.</p>
+            </div>
+            <div n="79" type="part">
+               <head>79</head>
+               <p>A Christian for the sweete fruit he beares to God and men, is compa<g ref="char:EOLhyphen"/>red to the noblest of all
+<pb n="145" facs="tcp:3826:77"/>plants, the Vine. Now as the most generous Vine if it bee not pruned, runs out into many superflu<g ref="char:EOLhyphen"/>ous stemmes, &amp; growes at last weake &amp; fruitlesse: so doeth the best man if he be not cut short of his desires, and pruned with afflictions. If it be paine<g ref="char:EOLhyphen"/>full to bleede, it is worse to wither. Let me be pru<g ref="char:EOLhyphen"/>ned that I may grow, ra<g ref="char:EOLhyphen"/>ther thā cut vp to burne.</p>
+            </div>
+            <div n="80" type="part">
+               <head>80</head>
+               <p>Those, that do but su<g ref="char:EOLhyphen"/>perficially taste of diuine knowledge, finde little sweetnesse in it; and are ready for the vnpleasant
+<pb n="146" facs="tcp:3826:78"/>rellish to abhorre it: whereas if they would diue deepe into this sea, they should finde fresh water neere to the bot<g ref="char:EOLhyphen"/>tome: That it sauors not well at the first, is the fault not of it, but of the distempered palate that tastes it. Good metals &amp; minerals are not found close vnder the skinne of the earth, but below in the bowels of it: No good Miner casts away his mattocke because he findes a veine of tough clay, or a shelfe of stone; but still delueth lower, &amp; passing through many
+<pb n="147" facs="tcp:3826:78"/>changes of soile, at last comes to his rich trea<g ref="char:EOLhyphen"/>sure. Wee are too soone discouraged in our spi<g ref="char:EOLhyphen"/>rituall gaines. I will still perseuere to seeke; har<g ref="char:EOLhyphen"/>dening my selfe against all difficulty. There is comfort euen in seeking, hope; &amp; ther is ioy in ho<g ref="char:EOLhyphen"/>ping, good successe; &amp; in that successe, is happines.</p>
+            </div>
+            <div n="81" type="part">
+               <head>81</head>
+               <p>He that hath any ex<g ref="char:EOLhyphen"/>periēce in spiritual mat<g ref="char:EOLhyphen"/>ters, knowes that Satan is euer more violēt at the last; then raging most furiously, whē he knowes hee shall rage but a
+<pb n="148" facs="tcp:3826:79"/>while. Hence of the per<g ref="char:EOLhyphen"/>secutions of the first Church, the tenth and last vnder <hi>Dioclesian,</hi> and <hi>Maximinian,</hi> and those other fiue tyrants was the bloodiest Hence this age is the most dissolute, because neerest the con<g ref="char:EOLhyphen"/>clusion. And as this is his course in the vniuersall assaults of the whole Church: so it is the same in his conflicts with eue<g ref="char:EOLhyphen"/>ry Christian soule. Like a subtil orator hee reserues his strongest force til the shutting vp: And there<g ref="char:EOLhyphen"/>fore miserable is the fol<g ref="char:EOLhyphen"/>lie of those men who
+<pb n="149" facs="tcp:3826:79"/>deferre their repentance till then; when their on<g ref="char:EOLhyphen"/>set shall be most sharpe, and they through paine of body, and perplexed<g ref="char:EOLhyphen"/>nesse of minde, shall bee least able to resist. Those that haue long furnisht themselues with spiritu<g ref="char:EOLhyphen"/>all munition, find worke enough in this extreame brunt of tentation; how then should the carelesse man, that with the helpe of al opportunities could not find grace to repent, hope to atchieue it at the last gaspe, against grea<g ref="char:EOLhyphen"/>ter force, with lesse means, more distraction,
+<pb n="150" facs="tcp:3826:80"/>no leasure? Wise prin<g ref="char:EOLhyphen"/>ces vse to prepare tenne yeeres before, for a field of one day: I will euery day lay vp somewhat for my last. If I win that skir<g ref="char:EOLhyphen"/>mish, I haue enough. The first &amp; second blow begins the battel, but the last onely wins it.</p>
+            </div>
+            <div n="82" type="part">
+               <head>82</head>
+               <p>I obserue three sea<g ref="char:EOLhyphen"/>sons wherein a wise man differs not from a foole; In his infancie, in sleepe, and in silence: For in the two former wee are all fooles, and in silence
+<pb n="151" facs="tcp:3826:80"/>all are wise. In the two former yet, there may bee concealment of fol<g ref="char:EOLhyphen"/>ly; but the tongue is a blabbe: there cannot bee any kinde of folly, either simple, or wicked, in the heart, but the tongue will bewray it. Hee cannot bee wise that speakes much, or without sense, or out of season: nor hee knowen for a foole that sayes nothing. It is a great mi<g ref="char:EOLhyphen"/>scrie to bee a foole: but this is yet greater, that a man cannot bee a foole, but hee must shew it. It were well for
+<pb n="152" facs="tcp:3826:81"/>such a one, if he could be taught to keep close his foolishnesse: but then there should be no fools. I haue heard some which haue scorned the opini<g ref="char:EOLhyphen"/>on of folly in themselues, for a speach wherein they haue hoped to shew most wit censured of follie, by him that hath thought himselfe wiser: and another, hea<g ref="char:EOLhyphen"/>ring his sentence againe, hath condemned him for want of wit in censu<g ref="char:EOLhyphen"/>ring. Surely he is not a foole that hath vnwise thoughts, but he that vt<g ref="char:EOLhyphen"/>ters them. Euen concea<g ref="char:EOLhyphen"/>led
+<pb n="153" facs="tcp:3826:81"/>folly is wisedom; and sometimes wisedom vt<g ref="char:EOLhyphen"/>tered is folly. While o<g ref="char:EOLhyphen"/>thers care how to speak, my care shall be how to hold my peace.</p>
+            </div>
+            <div n="83" type="part">
+               <head>83</head>
+               <p>A worke is then one<g ref="char:EOLhyphen"/>ly good and acceptable, when the action, mea<g ref="char:EOLhyphen"/>ning, and maner are all good: For, to doe good with an ill meaning (as <hi>Iudas</hi> saluted Christ to betray him) is so much more sinfull, by how much the action is bet<g ref="char:EOLhyphen"/>ter; which being good in the kind is abused to an ill purpose: To doe ill
+<pb n="154" facs="tcp:3826:82"/>in a good meaning (as <hi>Vzza</hi> in staying the Arke) is so much amisse, that the good intention cannot beare out the vn<g ref="char:EOLhyphen"/>lawfull acte: which al<g ref="char:EOLhyphen"/>though it may seeme some excuse, why it should not be so ill, yet is no warrant to iustifie it. To meane well, and doe a good action, in an ill manner (as the Phari<g ref="char:EOLhyphen"/>see made a good prayer, but arrogantly) is so of<g ref="char:EOLhyphen"/>fensiue, that the ill man<g ref="char:EOLhyphen"/>ner depraueth both the other. So a thing may bee euill vpon one cir<g ref="char:EOLhyphen"/>cumstance, it cannot be
+<pb n="155" facs="tcp:3826:82"/>good but vpon all. In what euer busines I go a<g ref="char:EOLhyphen"/>bout, I wil inquire What I doe for the substance, Howe for the manner, Why for the intention: For the two first I will consult with God, for the last with my owne heart.</p>
+            </div>
+            <div n="84" type="part">
+               <head>84</head>
+               <p>I can do nothing with<g ref="char:EOLhyphen"/>out a million of witnes<g ref="char:EOLhyphen"/>ses: The conscience is as a thousand witnesses; and GOD is as a thou<g ref="char:EOLhyphen"/>sand consciences. I wil therefore so deale with men, as knowing that God sees mee; and so
+<pb n="156" facs="tcp:3826:83"/>with God, as if the world sawe mee; so with my selfe, and both of them, as knowing that my con<g ref="char:EOLhyphen"/>science seeth me: and so with them all, as know<g ref="char:EOLhyphen"/>ing I am alwayes ouer<g ref="char:EOLhyphen"/>looked by my accuser, by my iudge.</p>
+            </div>
+            <div n="85" type="part">
+               <head>85</head>
+               <p>Earthly inheritances are diuided oft times with much inequalitie: The priuiledge of pri<g ref="char:EOLhyphen"/>mogeniture stretcheth larger in many places now, than it did among the auncient Iewes. The younger many times
+<pb n="157" facs="tcp:3826:83"/>serues the elder; and while the eldest aboun<g ref="char:EOLhyphen"/>deth, all the later issue is pinched. In heauen it is not so: All the sonnes of God are heires, none vnderlings; and not heires vnder wardship, and hope, but inheri<g ref="char:EOLhyphen"/>tors; and not inheritors of any little pittance of land, but of a kingdome; Nor of an earthly king<g ref="char:EOLhyphen"/>dome, subiect to danger of losse, or alteration, but one glorious and e<g ref="char:EOLhyphen"/>uerlasting. It shall con<g ref="char:EOLhyphen"/>tent mee here, that ha<g ref="char:EOLhyphen"/>uing right to all things, yet I haue possession of
+<pb n="158" facs="tcp:3826:84"/>nothing but sorrowe. Since I shall haue pos<g ref="char:EOLhyphen"/>session aboue, of all that, whereto I haue right be<g ref="char:EOLhyphen"/>lowe, I will serue wil<g ref="char:EOLhyphen"/>lingly, that I may reigne; serue for a while, that I may reigne for euer.</p>
+            </div>
+            <div n="86" type="part">
+               <head>86</head>
+               <p>Euen the best things ill vsed become euils; and contrarily, the worst things vsed wel prooue good: A good tongue, vsed to deceit; a good wit, vsed to defend error; a strong arme, to mur<g ref="char:EOLhyphen"/>der; authoritie, to op<g ref="char:EOLhyphen"/>presse; a good professi<g ref="char:EOLhyphen"/>on, to dissemble; are all
+<pb n="159" facs="tcp:3826:84"/>euil: Yea, Gods owne worde is the sworde of the spirit; which if it kill not our vices, killes our soules. Contrari<g ref="char:EOLhyphen"/>wise (as poysons are vsed to wholesom medicine) afflictions and sinnes, by a good vse, prooue so gainefull, as nothing more. Wordes are as they are taken: and things are as they are vsed. There are euen cursed blessings: O Lord, rather giue mee no fa<g ref="char:EOLhyphen"/>nours, than not grace to vse them. If I want them, thou requirest not what thou doest not giue; but
+<pb n="160" facs="tcp:3826:85"/>if I haue them, and want their vse; thy mer<g ref="char:EOLhyphen"/>cie prooues my iudge<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="86" type="part">
+               <head>86</head>
+               <p>Man is the best of al these inferiour creatures; yet liues in more sorow and discontentment, then the worst of them: whiles that reason wher<g ref="char:EOLhyphen"/>in he excels them, and by which hee might make aduantage of his life, hee abuses to a sus<g ref="char:EOLhyphen"/>spicious distrust. How many hast thou found of the foules of the ayre, lying dead in thy way for want of prouision? They
+<pb n="161" facs="tcp:3826:85"/>eate, and rest, and sing, and want nothing. Man, which hath better meanes to liue comfor<g ref="char:EOLhyphen"/>tably, toyleth, and ca<g ref="char:EOLhyphen"/>reth, &amp; wanteth; whom yet his reason alone might teach, that hee which careth for these lower creatures made onely for man, will much more prouide for man, to whose vse they were made. There is an holy carelesnesse, free from idlenesse, free from distrust. In these earthly things, I will so depend on my maker, that my trust in him may not ex<g ref="char:EOLhyphen"/>clude
+<pb n="162" facs="tcp:3826:86"/>my labour; and yet so labour (vpon my con<g ref="char:EOLhyphen"/>fidence on him) as my in<g ref="char:EOLhyphen"/>deuour may be voide of perplexitie.</p>
+            </div>
+            <div n="87" type="part">
+               <head>87</head>
+               <p>The precepts, &amp; pra<g ref="char:EOLhyphen"/>ctise of those with whō we liue, auaile much on either part. For a man not to bee ill where hee hath no prouocations to euill, is lesse commenda<g ref="char:EOLhyphen"/>ble; but for a man to liue continently in <hi>Asia</hi> (as hee sayd) where he sees nothing but allurements to vncleannesse; for <hi>Lot</hi>
+                  <pb n="163" facs="tcp:3826:86"/>to bee a good man in the midst of <hi>Sodom;</hi> to be ab<g ref="char:EOLhyphen"/>stemious in <hi>Germany,</hi> &amp; in <hi>Italy</hi> chaste; this is tru<g ref="char:EOLhyphen"/>ly praise-worthy. To se<g ref="char:EOLhyphen"/>quester our selues from the cōpany of the world, that we may depart from their vices, proceedes from a base and distru<g ref="char:EOLhyphen"/>sting minde: as if wee would so force goodnes vpon our selues, that therfore only we would bee good, because wee cannot bee ill. But for a man so to bee perso<g ref="char:EOLhyphen"/>nally, and locally in the throng of the worlde, as to withdrawe his
+<pb n="164" facs="tcp:3826:87"/>affections from it, to vse it, and yet to contemne it at once, to compell it to his seruice without any infection, becomes well the noble courage of a Christian. The worlde shall bee mine, I will not be his; and yet so mine, that his euill shall be still his owne.</p>
+            </div>
+            <div n="88" type="part">
+               <head>88</head>
+               <p>He that liues in God, cannot bee wearie of his life, because hee e<g ref="char:EOLhyphen"/>uer findes both some<g ref="char:EOLhyphen"/>what to doe, and some<g ref="char:EOLhyphen"/>what to solace himselfe
+<pb n="165" facs="tcp:3826:87"/>with; cannot bee ouer<g ref="char:EOLhyphen"/>loath to part with it, be<g ref="char:EOLhyphen"/>cause hee shall enter into a neerer life and societie with that God in whom he delighteth: Where<g ref="char:EOLhyphen"/>as hee that liues with<g ref="char:EOLhyphen"/>out him, liues many times vncōfortably here, because partly he knows not any cause of ioy in himselfe; and partly hee findes not any worthy employment to while himselfe withall; Dyes miserably, because hee either knowes not whi<g ref="char:EOLhyphen"/>ther hee goes, or knowes hee goes to torment. There is no true life, but
+<pb n="166" facs="tcp:3826:88"/>the life of faith. O Lord let mee liue out of the world with thee (if thou wilt) but let mee not liue in the worlde with<g ref="char:EOLhyphen"/>out thee.</p>
+            </div>
+            <div n="89" type="part">
+               <head>89</head>
+               <p>Sinne is both euill in it selfe, and the effect of a former euill, and the cause of sinne follow<g ref="char:EOLhyphen"/>ing; a cause of punish<g ref="char:EOLhyphen"/>ment, and lastly a pu<g ref="char:EOLhyphen"/>nishment it selfe. It is damnable iniquitie in man, to multiplie one sinne vpon another; but to punish one sinne by
+<pb n="167" facs="tcp:3826:88"/>another, in GOD is a iudgemēt both most iust, and most feareful: So as all the storehouse of God hath not a greater ven<g ref="char:EOLhyphen"/>geance: with other pu<g ref="char:EOLhyphen"/>nishmēts the body smar<g ref="char:EOLhyphen"/>teth, the soule with this. I care not how God of<g ref="char:EOLhyphen"/>fends mee with punish<g ref="char:EOLhyphen"/>ments, so he punish me not with offending him.</p>
+            </div>
+            <div n="90" type="part">
+               <head>90</head>
+               <p>I haue seene some af<g ref="char:EOLhyphen"/>flict their bodies with wilfull famine, and scourges of their owne
+<pb n="168" facs="tcp:3826:89"/>making; God spares me that labour; For hee whips mee daylie with the scourge of a weake bodie; and sometimes with ill tongues. Hee holds mee short many times of the feeling of his cōfortable presence, which is in trueth so much more miserable an hunger then that of the bodie, by how much the soule is more ten<g ref="char:EOLhyphen"/>der, and the foode de<g ref="char:EOLhyphen"/>nied more excellent. He is my father; infinitely wise to proportion out my correction accor<g ref="char:EOLhyphen"/>ding to my estate; and
+<pb n="169" facs="tcp:3826:89"/>infinitely louing in fit<g ref="char:EOLhyphen"/>ting mee with a due measure. Hee is a pre<g ref="char:EOLhyphen"/>sumptuous childe that will make choyce of his owne rodde. Let mee learn to make a right vse of his corrections, and I shall not neede to cor<g ref="char:EOLhyphen"/>rect my selfe. And if it should please GOD to remit his hand a little; I will gouerne my body, as a master, not as a ty<g ref="char:EOLhyphen"/>rant.</p>
+            </div>
+            <div n="91" type="part">
+               <head>91</head>
+               <p>If God had not sayd, <hi>Blessed are those that hunger;</hi> I know not what
+<pb n="170" facs="tcp:3826:90"/>could keep weake Chri<g ref="char:EOLhyphen"/>stians from sinking in despaire: Many times all I can doe, is to finde and complaine that I want him; and wish to recouer him: Now this is my stay, that hee in mercie esteemes vs not onely by hauing, but by desiring also; and after a sort accounts vs to haue that which we want, and desire to haue: and my soule assuming, tels me I doe vnfainedly wish him, and long after that grace I misse. Let mee desire still more, and I knowe I shall not de<g ref="char:EOLhyphen"/>sire
+<pb n="171" facs="tcp:3826:90"/>alwayes. There was neuer soule miscaried with lōging after grace. O blessed hunger that endes alwaies in fulnesse. I am sory that I can but hunger; and yet I would not bee full; for the bles<g ref="char:EOLhyphen"/>sing is promised to the hungry: Giue me more, Lord, but so as I may hunger more. Let mee hunger more, &amp; I knowe I shall be satisfied.</p>
+            </div>
+            <div n="92" type="part">
+               <head>92</head>
+               <p>There is more in the Christian than thou see<g ref="char:EOLhyphen"/>est. For hee is both an
+<pb n="172" facs="tcp:3826:91"/>entire bodie of himselfe, and hee is a limme of another more excellent; euen that glorious my<g ref="char:EOLhyphen"/>sticall bodie of his Sa<g ref="char:EOLhyphen"/>uiour; to whom hee is so vnited, that the acti<g ref="char:EOLhyphen"/>ons of either are reci<g ref="char:EOLhyphen"/>procally referred to each other. For, on the one side, the Christian liues in Christ, dyes in Christ, in Christ fulfils the Law, possesseth heauē: on the other, Christ is persecu<g ref="char:EOLhyphen"/>ted by <hi>Paul</hi> in his mem<g ref="char:EOLhyphen"/>bers, and is persecuted in <hi>Paul</hi> afterwards by others: hee suffers in vs, he liues in vs, he workes
+<pb n="173" facs="tcp:3826:91"/>in and by vs: So thou canst not do either good or harme to a Christi<g ref="char:EOLhyphen"/>an, but thou doest it to his redeemer; to whom he is inuisiblie vnited. Thou seest him as a man, and therefore worthy of fauour for humanities sake: Thou seest him not as a Christian, wor<g ref="char:EOLhyphen"/>thy of honor for his se<g ref="char:EOLhyphen"/>cret and yet true vnion with his Sauiour. I will loue euery Christian, for that I see; honour him, for that I shall see.</p>
+            </div>
+            <div n="93" type="part">
+               <head>93</head>
+               <p>Hell it selfe is scarce a more obscure dunge<g ref="char:EOLhyphen"/>on
+<pb n="174" facs="tcp:3826:92"/>in comparison of the earth, than earth is in respect of heauen. Heere, the most see no<g ref="char:EOLhyphen"/>thing, and the best see little: Heere, halfe our life is night; and our verie day is darkenesse, in respect of GOD. The true light of the worlde, and the Father of lights dwelleth a<g ref="char:EOLhyphen"/>boue: There is the light of knowledge to in<g ref="char:EOLhyphen"/>forme vs, and the light of ioy to comfort vs; without all change of darkenesse. There was neuer any captiue loued his dungeon, and com<g ref="char:EOLhyphen"/>plained
+<pb n="175" facs="tcp:3826:92"/>when hee must be brought out to light, &amp; liberty: Whence then is this naturall madnesse in vs men, that wee de<g ref="char:EOLhyphen"/>light so much in this vn<g ref="char:EOLhyphen"/>cleane, noysome, darke and comfortlesse prison of earth? and thinke not of our release to that lightsome and glorious Paradise aboue vs, with<g ref="char:EOLhyphen"/>out griefe and repining? Wee are sure that wee are not perfectly well heere: If wee could bee as sure, that wee should bee better aboue, wee would not feare chan<g ref="char:EOLhyphen"/>ging. Certainly our sense
+<pb n="176" facs="tcp:3826:93"/>tells vs, wee haue some pleasure heere; and wee haue not faith to assure vs of more pleasure a<g ref="char:EOLhyphen"/>boue, and hence wee settle our selues to the present, with neglect of the future, though in<g ref="char:EOLhyphen"/>finitely more excellent: The heart followes the eyes: and vnknowen good is vncared for; O Lord, doe thou breake through this darkenesse of ignorance, and faith<g ref="char:EOLhyphen"/>lesnesse, wherewith I am compassed. Let me but see my heauen, and I knowe I shall desire it.</p>
+            </div>
+            <div n="94" type="part">
+               <pb n="177" facs="tcp:3826:93"/>
+               <head>94</head>
+               <p>To bee caried away with an affectation of fame is so vaine, and ab<g ref="char:EOLhyphen"/>surd, that I wonder it can bee incident to any wise man: For what a mole-hill of earth is it, to which his name can extend, when it is fur<g ref="char:EOLhyphen"/>thest carried by the wings of report? And how short a while doth it continue where it is once spread? Time (the deuourer of his owne broode) consumes both vs and our memories;
+<pb n="178" facs="tcp:3826:94"/>not brasse, nor marble, can beare age. How ma<g ref="char:EOLhyphen"/>ny flattering Poets haue promised immortalitie of name to their Prin<g ref="char:EOLhyphen"/>ces, who now together are buried long since in forgetfulnesse. Those names and actions, that are once on the file of Heauen, are past the daunger of defacing: I will not care whether I bee knowen, or re<g ref="char:EOLhyphen"/>membred, or forgotten amongst men, if my name and good acti<g ref="char:EOLhyphen"/>ons may liue with God in the records of Eter<g ref="char:EOLhyphen"/>nitie.</p>
+            </div>
+            <div n="95" type="part">
+               <pb n="179" facs="tcp:3826:94"/>
+               <head>95</head>
+               <p>There is no man, nor no place free from spi<g ref="char:EOLhyphen"/>rits, although they testi<g ref="char:EOLhyphen"/>fie their presence by visi<g ref="char:EOLhyphen"/>ble effects but in fewe. Euerie man is an host to entertain angels, though not in visible shapes as <hi>Abraham</hi> and <hi>Lot.</hi> The e<g ref="char:EOLhyphen"/>uil ones doe nothing but prouoke vs to sin; &amp; plot mischiefe against vs; by casting into our way daungerous obiects, by suggesting sinfull motiōs to our mindes, stirring vp enemies against vs amongst men, by fright<g ref="char:EOLhyphen"/>ing vs with terrors in our
+<pb n="180" facs="tcp:3826:95"/>selues, by accusing vs to God. On the contrary, The good Angels are euer remouing our hin<g ref="char:EOLhyphen"/>derances from good, and our occasions of e<g ref="char:EOLhyphen"/>uill, mitigating our ten<g ref="char:EOLhyphen"/>tations; helping vs a<g ref="char:EOLhyphen"/>gainst our enemies; deli<g ref="char:EOLhyphen"/>uering vs from dangers; cōforting vs in sorowes; furthering our good purposes; and at last carrying vp our soules to heauen. It would af<g ref="char:EOLhyphen"/>fright a weake Christian that knowes the pow<g ref="char:EOLhyphen"/>er and malice of wic<g ref="char:EOLhyphen"/>ked spirits, to consider their presence, and num<g ref="char:EOLhyphen"/>ber;
+<pb n="181" facs="tcp:3826:95"/>but when, with the eyes of <hi>Elishaes</hi> seruant, hee sees those on his side as present, as diligent, more powerfull, he can<g ref="char:EOLhyphen"/>not but take heart again: Especially, if hee consi<g ref="char:EOLhyphen"/>der, that neither of them is without God, limiting the one the bounds of their tentation, directing the other in the safegard of his children. Where<g ref="char:EOLhyphen"/>upon it is comn to passe, that though there be ma<g ref="char:EOLhyphen"/>ny legions of diuels, and euery one more strong than many legions of men, and more malici<g ref="char:EOLhyphen"/>ous than strong, yet the
+<pb n="182" facs="tcp:3826:96"/>little flocke of Gods Church liueth and pro<g ref="char:EOLhyphen"/>spereth: I haue euer with me inuisible friends, and enemies: The conside<g ref="char:EOLhyphen"/>ration of mine enemies shall keepe me from se<g ref="char:EOLhyphen"/>curitie, and make mee fearfull of doing ought to aduantage them. The consideration of my spi<g ref="char:EOLhyphen"/>rituall friends shall com<g ref="char:EOLhyphen"/>fort mee against the ter<g ref="char:EOLhyphen"/>ror of the other; shall remedy my solitarinesse; shall make mee warie of dooing ought inde<g ref="char:EOLhyphen"/>cently; grieuing me ra<g ref="char:EOLhyphen"/>ther, that I haue euer heretofore made them
+<pb n="183" facs="tcp:3826:96"/>turne away their eyes, for shame of that where<g ref="char:EOLhyphen"/>of I haue not beene asna<g ref="char:EOLhyphen"/>med; that I haue no more enioyed their societie; that I haue been no more affected with their pre<g ref="char:EOLhyphen"/>sence. What though I see them not? I beleeue them. I were no Christi<g ref="char:EOLhyphen"/>an, if my faith were not as sure as my sense.</p>
+            </div>
+            <div n="96" type="part">
+               <head>96</head>
+               <p>There is no worde or action, but may be taken with two handes; either with the right hand of charitable cōstructiō, or
+<pb n="184" facs="tcp:3826:97"/>the finister interpretati<g ref="char:EOLhyphen"/>on of malice, and suspici<g ref="char:EOLhyphen"/>on: and all things doe so succeede, as they are taken. I haue noted, euill actions well taken, passe currant for either indif<g ref="char:EOLhyphen"/>ferent, or commenda<g ref="char:EOLhyphen"/>ble: Contrarily, a good speech or action ill ta<g ref="char:EOLhyphen"/>ken, scarce allowed for indifferent; an indiffe<g ref="char:EOLhyphen"/>rent one, censured for e<g ref="char:EOLhyphen"/>uill; an euill one for no<g ref="char:EOLhyphen"/>torious: So fauor makes vertues of vices; and sus<g ref="char:EOLhyphen"/>picion makes vertues, faults; and faults, crimes. Of the two I had rather my right hand should
+<pb n="185" facs="tcp:3826:97"/>offend: It is alwayes sa<g ref="char:EOLhyphen"/>fer offending on the bet<g ref="char:EOLhyphen"/>ter part. To construe an euill act well, is but a pleasing and profitable deceite of my selfe: But to misconstrue a good thing is a treble wrong; to my self, the action, the author. If no good sense can be made of a deed, or speach, let the blame light vpon the author: If a good interpretation may bee giuen and I chuse a worse, let mee bee as much censured of others, as that mis<g ref="char:EOLhyphen"/>conceit is punishment to my selfe.</p>
+            </div>
+            <div n="97" type="part">
+               <pb n="186" facs="tcp:3826:98"/>
+               <head>97</head>
+               <p>I knowe not how it comes to passe, that the minde of man doth na<g ref="char:EOLhyphen"/>turally both ouer-prize his owne in comparison of others, and yet con<g ref="char:EOLhyphen"/>temne and neglect his owne in comparison of what he wants. The re<g ref="char:EOLhyphen"/>medie of this later euill is to compare the good things we haue, with the euils which we haue not, and others grone vnder: Thou art in health and regardest it not; Looke on the miserie of those which on their bed of sicknes, through extrea<g ref="char:EOLhyphen"/>mity
+<pb n="187" facs="tcp:3826:98"/>of paine &amp; anguish, intreat death to release them. Thou hast cleare eye-sight, sound lims, vse of reason; and passest these ouer with slight re<g ref="char:EOLhyphen"/>spect: Thinke how many there are, which in their vncomfortable blindnes, would giue all the world for but one glimpse of light. How many that de<g ref="char:EOLhyphen"/>formedly crawle on all foure, after the maner of the most loathsom crea<g ref="char:EOLhyphen"/>tures; how many that in mad phrensies are worse than blutish, worse than dead: thus thou mightest be, and art not. If I be not
+<pb n="188" facs="tcp:3826:99"/>happie for the good that I haue, I am yet happie for the euils that I might haue had, and haue esca<g ref="char:EOLhyphen"/>ped: I haue deserued the greatest euill; euery euill that I misse, is a new mer<g ref="char:EOLhyphen"/>cie.</p>
+            </div>
+            <div n="98" type="part">
+               <head>98</head>
+               <p>Earth, which is the ba<g ref="char:EOLhyphen"/>sest element, is both our mother that brought vs foorth, our stage that beares vs aliue, and our graue where in at last we are entombed; giuing to vs both our original, our harbour, our sepulchre: Shee hath yeelded her back to beare thousands
+<pb n="189" facs="tcp:3826:99"/>of generations; and at last opened her wombe to receiue them; so swal<g ref="char:EOLhyphen"/>lowing them vp, that she still both beareth more, and lookes for more; not bewraying any change in her selfe, while shee so oft hath changed her broode, and her burden. It is a wonder we can be proud of our parentage, or of our selues, while wee see both the base<g ref="char:EOLhyphen"/>nesse, and stabilitie of the earth, whence we came. What differēce is there? Liuing earth treads vp<g ref="char:EOLhyphen"/>on the dead earth, which afterwards descends into
+<pb n="190" facs="tcp:3826:100"/>the graue, as senselesse and dead, as the earth that receiues it. Not ma<g ref="char:EOLhyphen"/>ny are proud of their soules; and none but fooles can bee proud of their bodies. While we walke and looke vpon the earth, we cannot but acknowledge sensible ad<g ref="char:EOLhyphen"/>monitions of humilitie; and while we remember them, we cannot forget our selues. It is a mo<g ref="char:EOLhyphen"/>ther-like fauour of the earth, that she beares and nourishes me, and at the last entertaines my dead carcasse: but it is a grea<g ref="char:EOLhyphen"/>ter pleasure, that she tea<g ref="char:EOLhyphen"/>cheth
+<pb n="191" facs="tcp:3826:100"/>mee my vilenesse by her owne, and sends me to heauen, for what she wants.</p>
+            </div>
+            <div n="99" type="part">
+               <head>99</head>
+               <p>The wicked man car<g ref="char:EOLhyphen"/>rieth euery day a brand to his hell, till his heape be comne to the height: then he ceaseth sinning, and begins his torment. Whereas the repentant, in euery fit of holy sor<g ref="char:EOLhyphen"/>rowe, carries away a whole faggot from the flame, and quencheth the coales that remaine, with his teares. There is no
+<pb n="192" facs="tcp:3826:101"/>tormēt for the penitent; no redemption for the obstinate. Safety consi<g ref="char:EOLhyphen"/>steth not in not sinning, but in repenting: neither is it sin that condemnes; but impenitence. O Lord I cannot be righteous? let me be repentant.</p>
+            </div>
+            <div n="100" type="part">
+               <head>100</head>
+               <p>The estate of he auen<g ref="char:EOLhyphen"/>ly and earthly things is plainely represented to vs, by the two lights of heauen, which are ap<g ref="char:EOLhyphen"/>pointed to rule the night and the day. Earthly things are rightly resem<g ref="char:EOLhyphen"/>bled
+<pb n="193" facs="tcp:3826:101"/>by the moon, which being neerest to the re<g ref="char:EOLhyphen"/>gion of mortalitie, is e<g ref="char:EOLhyphen"/>uer in changes, and ne<g ref="char:EOLhyphen"/>uer lookes vpon vs twise with the same face, and when it is at the full, is blemished with some darke blots, not capable of any illuminatiō: Hea<g ref="char:EOLhyphen"/>uenly things are figured by the Sun, whose great &amp; glorious light is both naturall to it selfe, and euer constant. That o<g ref="char:EOLhyphen"/>ther fickle and dimme starre is fit enough for the night of miserie, wherein we liue here be<g ref="char:EOLhyphen"/>lowe. And this firme and
+<pb n="194" facs="tcp:3826:102"/>beautifull light is but good enough for that day of glory, which the Saints liue in. If it bee good liuing here, where our sorrowes are chan<g ref="char:EOLhyphen"/>ged with ioyes; what is it to liue aboue, where our ioyes change not? I cannot looke vpon the body of the Sunne: and yet I cannot see at all without the light of it. I cannot behold the glo<g ref="char:EOLunhyphen"/>ry of thy Saints, O Lord; yet without the know<g ref="char:EOLhyphen"/>ledge of it, I am blinde. If thy creature be so glori<g ref="char:EOLhyphen"/>ous to vs here belowe; how glorious shall thy
+<pb n="195" facs="tcp:3826:102"/>selfe be to vs, when wee are aboue this Sun? This Sunne shal not shine vp<g ref="char:EOLhyphen"/>ward; where thy glory shineth: the greater light extinguisheth the lesser. O thou Sunne of righte<g ref="char:EOLhyphen"/>ousnesse (which shalt on<g ref="char:EOLhyphen"/>ly shine to mee, when I am glorified) doe thou heate, inlighten, com<g ref="char:EOLhyphen"/>fort me with the beames of thy presence, till I be glorified.</p>
+               <closer>Amen.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
